@@ -1,6 +1,6 @@
  # 旋元佑进阶语法
 
-﹝台﹞旋元佑 著
+﹝中国台湾省﹞旋元佑 著
 
 * 目录
   * [前言](README.md)
@@ -34,10 +34,10 @@
 
 [//]: # (  * [附录 台湾大陆术语比较]&#40;docs/terminology.md&#41;)
 
-[//]: # (* 其他)
+* 其他
 
-[//]: # (  * [源码]&#40;https://github.com/codeyu/EnglishGrammarBook&#41;)
+  * [源码](https://github.com/codeyu/EnglishGrammarBook)
 
-[//]: # (  * [修订历史]&#40;https://github.com/codeyu/EnglishGrammarBook/commits/master&#41;)
+  * [修订历史](https://github.com/codeyu/EnglishGrammarBook/commits/master)
 
-[//]: # (  * [反馈意见]&#40;https://github.com/codeyu/EnglishGrammarBook/issues&#41;)
+  * [反馈意见](https://github.com/codeyu/EnglishGrammarBook/issues)
