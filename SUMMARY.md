@@ -31,9 +31,13 @@
   * [第二十三章 关系从句减化](docs/RelativeClausesReduced.md)
   * [第二十四章 名词从句减化](docs/NounClausesReduced.md)
   * [第二十五章 状语从句减化](docs/AdverbClausesReduced.md)
-  * [附录 台湾大陆术语比较](docs/terminology.md)
 
-* 其他
-  * [源码](https://github.com/codeyu/EnglishGrammarBook)
-  * [修订历史](https://github.com/codeyu/EnglishGrammarBook/commits/master)
-  * [反馈意见](https://github.com/codeyu/EnglishGrammarBook/issues)
+[//]: # (  * [附录 台湾大陆术语比较]&#40;docs/terminology.md&#41;)
+
+[//]: # (* 其他)
+
+[//]: # (  * [源码]&#40;https://github.com/codeyu/EnglishGrammarBook&#41;)
+
+[//]: # (  * [修订历史]&#40;https://github.com/codeyu/EnglishGrammarBook/commits/master&#41;)
+
+[//]: # (  * [反馈意见]&#40;https://github.com/codeyu/EnglishGrammarBook/issues&#41;)
