@@ -3,7 +3,7 @@
 |  台湾   |  大陆  | 英文 |
 | ------ | ------ | ------
 | 单字    | 单词 | Word |
-| 文法    | 语法 | Grammar |
+| 语法    | 语法 | Grammar |
 | 代名词   | 代词 | Pronouns|
 | 连接词   | 连词 | Conjunctions|
 | 对等连接词  | 并列连词 |Coordinating Conjunction|

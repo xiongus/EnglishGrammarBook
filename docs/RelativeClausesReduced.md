@@ -8,7 +8,7 @@
 
 ## 简化为分词
 
-关系子句最常见的变化情况就是简化为现在分词片语或过去分词片语。这种情况, 关系子句的主词应该就是关系代名词, 与先行词重复。关系子句的动词如果是一般文法所谓的**进行式(be + Ving)**, 省略掉 be 动词之后就会剩下现在分词。如果动词是一般文法所谓的**被动态(be + Ven)**, 省略掉 be 动词之后剩下的就是过去分词。如果关系子句的动词是普通动词,则需要加上 -ing 进行词类变化、变成现在分词。先看看减化为现在分词的情况。
+关系子句最常见的变化情况就是简化为现在分词片语或过去分词片语。这种情况, 关系子句的主词应该就是关系代名词, 与先行词重复。关系子句的动词如果是一般语法所谓的**进行式(be + Ving)**, 省略掉 be 动词之后就会剩下现在分词。如果动词是一般语法所谓的**被动态(be + Ven)**, 省略掉 be 动词之后剩下的就是过去分词。如果关系子句的动词是普通动词,则需要加上 -ing 进行词类变化、变成现在分词。先看看减化为现在分词的情况。
 
 ### 现在分词
 
@@ -216,7 +216,7 @@ A chimpanzee is <u>an animal</u> [capable of reason].
 
 ## 简化为名词
 
-如果关系子句是 S + V + C 的句型，而主词补语是个名词片语，那么在减化过程中省略掉主词与 be 动词之后，剩下的部分就是那个名词片语。这个名词片语是原来的主词补语，也就是传统文法所谓的同位格。例如：
+如果关系子句是 S + V + C 的句型，而主词补语是个名词片语，那么在减化过程中省略掉主词与 be 动词之后，剩下的部分就是那个名词片语。这个名词片语是原来的主词补语，也就是传统语法所谓的同位格。例如：
 
 <u>The Great Wall of China</u>, [which is the largest man-made structure on earth], no longer serves a military function.
 先行词 关系子句
@@ -234,7 +234,7 @@ This movie features <u>Tom Hanks</u>, [who is my favorite movie star].
 
 这部电影主打汤姆汉克斯，那是我最喜爱的影星。
 
-关系子句的主词就是关系代名词 who，和先行词重复。这个关系子句放在一对逗点里面，属于补充说明的性质、不具指示功能。减化的方式是把重复的主词和空洞的be动词省略，剩下的主词补语是名词片语 my favorite movie star，也就是传统文法所谓的同位格，如下：
+关系子句的主词就是关系代名词 who，和先行词重复。这个关系子句放在一对逗点里面，属于补充说明的性质、不具指示功能。减化的方式是把重复的主词和空洞的be动词省略，剩下的主词补语是名词片语 my favorite movie star，也就是传统语法所谓的同位格，如下：
 
 This movie features <u>Tom Hanks</u>, [my favorite movie star].
 先行词 减化关系子句
@@ -319,7 +319,7 @@ There’s still one more person <u>to notify</u>.
 There’s still one more person <u>to be notified</u>.
 (还有一个人要通知。)
 
-句 1 和和 2 这两种讲法,不定词片语(减化形容词子句)中一个用主动语态、一个用被动语态。两种讲法都是文法正​​确的讲法。这时候,如果光是把不定词视为语气助动词的词类变化看待,那么主动被动语态的问题就很难解释清楚,必须还原为关系子句才能够看懂它的变化。可以把句子拆开成为下面两个单句来理解:
+句 1 和和 2 这两种讲法,不定词片语(减化形容词子句)中一个用主动语态、一个用被动语态。两种讲法都是语法正​​确的讲法。这时候,如果光是把不定词视为语气助动词的词类变化看待,那么主动被动语态的问题就很难解释清楚,必须还原为关系子句才能够看懂它的变化。可以把句子拆开成为下面两个单句来理解:
 
 There’s still <u>one more person</u>. <u>We</u> <u>must notify</u> <u>the person</u>.
 先行词 S V O
@@ -348,7 +348,7 @@ There’s still <u>one more person</u> [who must be notified].
 
 ### 主动与被动孰优孰劣
 
-如前所述，不定词片语有时候采主动与被动皆可。但是，该用主动还是该用被动，其间有优劣之分，这是英文写作时应该要会判断的事。传统文法因为只看到片语的层次，对于这一点一直没有能够讲清楚。必须将不定词片语还原到子句的层次，才能够知其所以然。
+如前所述，不定词片语有时候采主动与被动皆可。但是，该用主动还是该用被动，其间有优劣之分，这是英文写作时应该要会判断的事。传统语法因为只看到片语的层次，对于这一点一直没有能够讲清楚。必须将不定词片语还原到子句的层次，才能够知其所以然。
 
 #### 连贯性原则
 
@@ -388,7 +388,7 @@ When <u>John stepped</u> out of his office, <u>he was hit</u> by a car.
 <u>I</u> must stay at the office [because <u>I</u> have some people] <u>to notify</u>.
 (我必须留在办公室，因为我还有一些人必须通知。)
 
-这个句子，句尾那个不定词片语 to notify 如果改为被动态的 to be notified，文法仍然正确，但是修辞效果不佳。为什么？这个问题传统文法答不出来，必须采取减化子句的角度才看得清楚。我们先回到原点，把这个复句拆开成为三个单句，如下：
+这个句子，句尾那个不定词片语 to notify 如果改为被动态的 to be notified，语法仍然正确，但是修辞效果不佳。为什么？这个问题传统语法答不出来，必须采取减化子句的角度才看得清楚。我们先回到原点，把这个复句拆开成为三个单句，如下：
 
 I must stay at the office.
 I have some people.
@@ -410,7 +410,7 @@ I must stay at the office because I have some people <u>to notify</u>.
 <u>The news</u> can’t be released yet [because there are <u>some people</u>] <u>to be notified first</u>.
 (这则新闻还不能发布，因为还有些人必须先行知会。)
 
-上面这个复句，句尾的不定词片语 to be notified first 用的是被动态。如果改为主动态 to notify first，文法也是正确的，但是修辞效果较差。为什么？要回答这个问题，不妨先把这个复句拆开成为如下三个单句：
+上面这个复句，句尾的不定词片语 to be notified first 用的是被动态。如果改为主动态 to notify first，语法也是正确的，但是修辞效果较差。为什么？要回答这个问题，不妨先把这个复句拆开成为如下三个单句：
 
 The news can’t be released yet.
 There are some people.

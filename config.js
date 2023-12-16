@@ -1,6 +1,6 @@
 var CONFIG = {
   // your website's title
-  document_title: "旋元佑进阶文法",
+  document_title: "旋元佑进阶语法",
 
   // index page
   index: "README.md",

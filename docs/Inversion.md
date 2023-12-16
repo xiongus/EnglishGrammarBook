@@ -2,7 +2,7 @@
 
 单句、合句、复句等等初级到中级的句型构造都搞清楚了，接下来即将进入「减化子句」这种高级句型。不过，有一种特殊的句型构造称为**倒装（inversion）**，应该先弄清楚，对句型的认识才算完整。
 
-倒装句的特色在于主词和动词的顺序颠倒：动词在前、主词在后。从这个定义来看，所有的疑问句都可以算是倒装句。疑问句属于比较基础的文法，比较值得研究的是具有修辞功能的倒装句。
+倒装句的特色在于主词和动词的顺序颠倒：动词在前、主词在后。从这个定义来看，所有的疑问句都可以算是倒装句。疑问句属于比较基础的语法，比较值得研究的是具有修辞功能的倒装句。
 
 动词要移到主词前面构成倒装句，通常得先有别的元素为了某种修辞原因移动到句首，动词只不过是被它带着走。而且，动词的倒装又分成几种方式：有时候是直接把普通动词移到主词前面、有时候是只能移动助动词或be动词，有时候则是要加上像 do 之类的助动词在前面。以下就依动词移动的方式，分成四种情况来探讨倒装句。
 
@@ -28,7 +28,7 @@ O V S
 <u>“The typhoon is expected to swerve north for Japan,”</u> <u>the weatherman</u> <u>says</u>.
 O S V
 
-如果像上面这句动词没有倒装的情况，有些文法学家有另一种诠释方式：”The typhoon is expected to swerve north for Japan” 就是主要子句，the weatherman says 则是个附加的**评论子句（comment clause）**、可有可无。
+如果像上面这句动词没有倒装的情况，有些语法学家有另一种诠释方式：”The typhoon is expected to swerve north for Japan” 就是主要子句，the weatherman says 则是个附加的**评论子句（comment clause）**、可有可无。
 
 如果是间接引句，差别只在于标点符号：没有使用双引号。例如：
 
@@ -155,7 +155,7 @@ The Amazon is <u>a pristine river</u> [<u>which</u> <u>environmentalists</u> <u>
 S V C
 (如果当时有我在，我或许可以防止意外发生。)
 
-从属连接词 if 引导的副词子句，动词的语气是表示「过去时间非事实」的假设语气。动词片语 had been 包括文法助动词 had，可以选择把 had 倒装到句首，以这种方式取代连接词、省略掉从属连接词 if，如下：
+从属连接词 if 引导的副词子句，动词的语气是表示「过去时间非事实」的假设语气。动词片语 had been 包括语法助动词 had，可以选择把 had 倒装到句首，以这种方式取代连接词、省略掉从属连接词 if，如下：
 
 [<u>Had</u> <u>I</u> been there], I could have prevented the accident.
 
@@ -178,7 +178,7 @@ S V C
 
 ## III. 助动词或 be 前移、普通动词加 do
 
-动词倒装的第三种方式是：若有助动词或 be 动词就移到前面，若只有普通动词则在前面加文法助动词 do。这种倒装方式专门用于「否定副词前移」的情况、以配合否定句。其修辞效果在于加强语气。例如：
+动词倒装的第三种方式是：若有助动词或 be 动词就移到前面，若只有普通动词则在前面加语法助动词 do。这种倒装方式专门用于「否定副词前移」的情况、以配合否定句。其修辞效果在于加强语气。例如：
 
 I <u>will never trouble</u> you again.
 V
@@ -198,13 +198,13 @@ V
 
 <u>Seldom is</u> the train late.
 
-否定副词移到句首以加强语气，如果句中没有 be 动词、也没有助动词，就必须加上文法助动词 do 之类以维持否定句。例如：
+否定副词移到句首以加强语气，如果句中没有 be 动词、也没有助动词，就必须加上语法助动词 do 之类以维持否定句。例如：
 
 The man <u>hardly ever leaves</u> home after 9 p.m.
 V
 (这名男子晚上九点之后几乎从来不出门。)
 
-频率副词 hardly ever 具有否定功能，表示「几乎从不」。若移到句首来加强语气，后面的普通动词 leaves 就必须加上文法助动词 does 来维持否定句、并把 does 倒装到主词前面，成为如下的倒装句：
+频率副词 hardly ever 具有否定功能，表示「几乎从不」。若移到句首来加强语气，后面的普通动词 leaves 就必须加上语法助动词 does 来维持否定句、并把 does 倒装到主词前面，成为如下的倒装句：
 
 <u>Hardly ever</u> <u>does</u> the man <u>leave</u> home after nine.
 
@@ -214,17 +214,17 @@ The doctor <u>did not leave</u> the patient [until he was sure everything was al
 V 副词子句
 （到有把握一切都没问题了，医生才离开这位病人身旁。）
 
-上例中的主要子句就是个否定句。如果把否定副词 not 和副词子句 until he was sure everything was all right 移到句首以加强语气，那么文法助动词 did 也要倒装到主词前面以维持否定句，成为倒装句如下：
+上例中的主要子句就是个否定句。如果把否定副词 not 和副词子句 until he was sure everything was all right 移到句首以加强语气，那么语法助动词 did 也要倒装到主词前面以维持否定句，成为倒装句如下：
 
 [Not until he was sure everything was all right] <u>did</u> the doctor <u>leave</u> the patient.
 
-至于 only 这个强调范围的副词（focusing adverb），具有「排除其他」的否定功能。如果把 only 和它所修饰的对象一同移到句首来加强语气，动词就需要倒装以维持否定意味。如果动词是普通动词，则必须加上文法助动词如 do 之类以配合否定句。例如：
+至于 only 这个强调范围的副词（focusing adverb），具有「排除其他」的否定功能。如果把 only 和它所修饰的对象一同移到句首来加强语气，动词就需要倒装以维持否定意味。如果动词是普通动词，则必须加上语法助动词如 do 之类以配合否定句。例如：
 
 The Johnsons <u>went</u> abroad <u>only last week</u>.
 V 时间副词
 （hnson一家上个礼拜才出国。）
 
-句中的 last week 是时间副词、修饰动词 went 的时间。 Only 是个强调范围的副词，用来强调「不是很久以前」，因此具有否定意味。若选择将 only last week 移到句首来加强语气，就需要采用倒装、加上文法助动词 did 来维持否定句，如下：
+句中的 last week 是时间副词、修饰动词 went 的时间。 Only 是个强调范围的副词，用来强调「不是很久以前」，因此具有否定意味。若选择将 only last week 移到句首来加强语气，就需要采用倒装、加上语法助动词 did 来维持否定句，如下：
 
 <u>Only last week did</u> the Johnsons <u>go</u> abroad.
 
