@@ -81,7 +81,7 @@ Two Vietnamese patients died from avian flu.
 This caused widespread panic in Southeast Asia.
 (这件事情在东南亚引起大恐慌。)
 
-句 2 的内容说明句1造成的结果，可以用表达​​结果的连词 so 引导、制造复句如下：
+句 2 的内容说明句1造成的结果，可以用表达​​结果的连词 so 引导、制造复合句如下：
 
 Two Vietnamese patients <u>died</u> from avian flu, [so this caused widespread panic in Southease Asia].
 状语从句

@@ -116,7 +116,7 @@ S V O
 S V C
 (那本杂志看起来很漂亮。)
 
-这两个句子经由 magazine 的交集建立关系，可以改写为关系代词、制造出这个复句：
+这两个句子经由 magazine 的交集建立关系，可以改写为关系代词、制造出这个复合句：
 
 <u>That magazine</u> <u>which looks beautiful</u> is for women.
 先行词 关系从句
@@ -134,7 +134,7 @@ I’m enjoying <u>the sunset</u>.
 S V C
 (夕阳快速消失。)
 
-这两个句子在 sunset 建立关系，可以写成这样的复句：
+这两个句子在 sunset 建立关系，可以写成这样的复合句：
 
 I’m enjoying <u>the sunset</u>, <u>which is vanishing fast</u>.
 先行词 关系从句
@@ -154,7 +154,7 @@ I love <u>these high peaks</u>.
 S V C
 (这些高峰被白雪覆盖。)
 
-这两个句子在these high peaks建立关系，可以改写为关系代词、制造出下面这个复句：
+这两个句子在these high peaks建立关系，可以改写为关系代词、制造出下面这个复合句：
 
 I love <u>these high peaks</u>, [which are covered with snow].
 先行词 关系从句
@@ -172,7 +172,7 @@ I love <u>these high, snow-covered peaks</u>.
 S V C
 这些苹果被霜冻坏了。
 
-这两个句子可以用关系​​从句连接、改写为下面这个复句：
+这两个句子可以用关系​​从句连接、改写为下面这个复合句：
 
 <u>These apples</u>, [which were bitten by frost], are beginning to rot.
 先行词 关系从句
@@ -216,7 +216,7 @@ A chimpanzee is <u>an animal</u> [capable of reason].
 
 ## 简化为名词
 
-如果关系从句是 S + V + C 的句型，而主语补语是个名词短语，那么在减化过程中省略掉主语与 be 动词之后，剩下的部分就是那个名词短语。这个名词短语是原来的主语补语，也就是传统语法所谓的同位格。例如：
+如果关系从句是 S + V + C 的句型，而主语补语是个名词短语，那么在减化过程中省略掉主语与 be 动词之后，剩下的部分就是那个名词短语。这个名词短语是原来的主语补语，也就是传统语法所谓的同位语。例如：
 
 <u>The Great Wall of China</u>, [which is the largest man-made structure on earth], no longer serves a military function.
 先行词 关系从句
@@ -227,14 +227,14 @@ A chimpanzee is <u>an animal</u> [capable of reason].
 <u>The Great Wall of China</u>, [the largest man-made structure on earth], no longer serves a military function.
 先行词 减化关系从句
 
-原来的关系从句放在一对括弧式的逗点中，不具有指示功能、只是个补充说明。减化之后剩下来的主语补语（所谓的同位格）仍然放在一对逗点里面作补充说明使用。再看一个例子：
+原来的关系从句放在一对括弧式的逗点中，不具有指示功能、只是个补充说明。减化之后剩下来的主语补语（所谓的同位语）仍然放在一对逗点里面作补充说明使用。再看一个例子：
 
 This movie features <u>Tom Hanks</u>, [who is my favorite movie star].
 先行词 关系从句
 
 这部电影主打汤姆汉克斯，那是我最喜爱的影星。
 
-关系从句的主语就是关系代词 who，和先行词重复。这个关系从句放在一对逗点里面，属于补充说明的性质、不具指示功能。减化的方式是把重复的主语和空洞的be动词省略，剩下的主语补语是名词短语 my favorite movie star，也就是传统语法所谓的同位格，如下：
+关系从句的主语就是关系代词 who，和先行词重复。这个关系从句放在一对逗点里面，属于补充说明的性质、不具指示功能。减化的方式是把重复的主语和空洞的be动词省略，剩下的主语补语是名词短语 my favorite movie star，也就是传统语法所谓的同位语，如下：
 
 This movie features <u>Tom Hanks</u>, [my favorite movie star].
 先行词 减化关系从句
@@ -324,7 +324,7 @@ There’s still one more person <u>to be notified</u>.
 There’s still <u>one more person</u>. <u>We</u> <u>must notify</u> <u>the person</u>.
 先行词 S V O
 
-后面这一句的宾语 the person 就是前一句的先行词 one more person, 可以改写为关系代词、制造出复句如下:
+后面这一句的宾语 the person 就是前一句的先行词 one more person, 可以改写为关系代词、制造出复合句如下:
 
 There’s still <u>one more person</u> [whom we must notify].
 先行词 关系从句
@@ -339,7 +339,7 @@ There’s still <u>one more person</u> [we must notify].
 There’s still <u>one more person</u>. <u>He</u> <u>must be</u> <u>notified</u>.
 先行词 S V C
 
-后句的主语 he 代表的就是前句的 one more person,改写为关系代词 who 就会成为这个复句:
+后句的主语 he 代表的就是前句的 one more person,改写为关系代词 who 就会成为这个复合句:
 
 There’s still <u>one more person</u> [who must be notified].
 先行词 关系从句
@@ -357,7 +357,7 @@ There’s still <u>one more person</u> [who must be notified].
 When <u>John stepped</u> into his office, <u>the boss was seen</u> waiting there <u>by him</u>.
 (当 John 步入办公室时，老板被他看到在那儿等着。)
 
-这个复句当中，前面的状语从句采主动语态，主语是 John；后面的主要从句采被动语态，主语是 boss。前后两个从句的主语不同，造成叙事不连贯，修辞效果较差。观察一下不难发现，主要从句中其实也有一个代表 John 的代词 him，但是当宾语使用。应该修改如下：
+这个复合句当中，前面的状语从句采主动语态，主语是 John；后面的主要从句采被动语态，主语是 boss。前后两个从句的主语不同，造成叙事不连贯，修辞效果较差。观察一下不难发现，主要从句中其实也有一个代表 John 的代词 him，但是当宾语使用。应该修改如下：
 
 When <u>John stepped</u> into his office, <u>he saw</u> the boss waiting there.
 (约翰走进办公室时，看到老板正在等着。)
@@ -388,18 +388,18 @@ When <u>John stepped</u> out of his office, <u>he was hit</u> by a car.
 <u>I</u> must stay at the office [because <u>I</u> have some people] <u>to notify</u>.
 (我必须留在办公室，因为我还有一些人必须通知。)
 
-这个句子，句尾那个不定式短语 to notify 如果改为被动态的 to be notified，语法仍然正确，但是修辞效果不佳。为什么？这个问题传统语法答不出来，必须采取减化从句的角度才看得清楚。我们先回到原点，把这个复句拆开成为三个单句，如下：
+这个句子，句尾那个不定式短语 to notify 如果改为被动态的 to be notified，语法仍然正确，但是修辞效果不佳。为什么？这个问题传统语法答不出来，必须采取减化从句的角度才看得清楚。我们先回到原点，把这个复合句拆开成为三个单句，如下：
 
 I must stay at the office.
 I have some people.
 I must notify them.
 
-请注意：因为句 1 和句 2 都是以 I 为主语，所以根据连贯性原则，句 3 最好也是用 I 作主语。即然句 3 用 I 当主语，它的动词就必须采主动语态，成为 I must notify them。这三个单句可以合在一起写成一个复句，如下：
+请注意：因为句 1 和句 2 都是以 I 为主语，所以根据连贯性原则，句 3 最好也是用 I 作主语。即然句 3 用 I 当主语，它的动词就必须采主动语态，成为 I must notify them。这三个单句可以合在一起写成一个复合句，如下：
 
 <u>I</u> must stay at the office [because <u>I</u> have <u>some people</u>] <u>whom I must notify</u>.
 状语从句 先行词 关系从句
 
-观察一下：这个复句当中，主要从句的主语是 I，表示原因的状语从句（中括号内）主语也是 I。为符合连贯性原则，后面的关系从句也选择用 I 当主语，因此动词必须采主动语态，写成 whom I must notify。这个关系从句，可以先把扮演宾语角色的关系代词 whom 省略掉，再开始进行减化：删除掉重复的主语 I、助动词 must 减化为表示不定式的 to，剩下的就是不定式短语 to notify（主动态），如下：
+观察一下：这个复合句当中，主要从句的主语是 I，表示原因的状语从句（中括号内）主语也是 I。为符合连贯性原则，后面的关系从句也选择用 I 当主语，因此动词必须采主动语态，写成 whom I must notify。这个关系从句，可以先把扮演宾语角色的关系代词 whom 省略掉，再开始进行减化：删除掉重复的主语 I、助动词 must 减化为表示不定式的 to，剩下的就是不定式短语 to notify（主动态），如下：
 
 I must stay at the office because I have some people <u>to notify</u>.
 
@@ -410,13 +410,13 @@ I must stay at the office because I have some people <u>to notify</u>.
 <u>The news</u> can’t be released yet [because there are <u>some people</u>] <u>to be notified first</u>.
 (这则新闻还不能发布，因为还有些人必须先行知会。)
 
-上面这个复句，句尾的不定式短语 to be notified first 用的是被动态。如果改为主动态 to notify first，语法也是正确的，但是修辞效果较差。为什么？要回答这个问题，不妨先把这个复句拆开成为如下三个单句：
+上面这个复合句，句尾的不定式短语 to be notified first 用的是被动态。如果改为主动态 to notify first，语法也是正确的，但是修辞效果较差。为什么？要回答这个问题，不妨先把这个复合句拆开成为如下三个单句：
 
 The news can’t be released yet.
 There are some people.
 These people must be notified first.
 
-这三个单句当中，第1句的主语是 the news，第2句的主语是 some people。这两句没有共同的元素，因此主语也无法连贯。但是第 2 句的主语 some people 在第3句中也有（these people）。如果第3句也用 people 当主语，至少叙事上和第 2 句是连贯的。既然第 3 句选择以 these people 为主语，动词就必须采被动语态 to be notified。然后，这三个单句可以合在一起写成一个复句，如下：
+这三个单句当中，第1句的主语是 the news，第2句的主语是 some people。这两句没有共同的元素，因此主语也无法连贯。但是第 2 句的主语 some people 在第3句中也有（these people）。如果第3句也用 people 当主语，至少叙事上和第 2 句是连贯的。既然第 3 句选择以 these people 为主语，动词就必须采被动语态 to be notified。然后，这三个单句可以合在一起写成一个复合句，如下：
 
 The news can’t be released yet [because there are <u>some people</u>] <u>who must be notified first</u>.
 状语从句 先行词 关系从句

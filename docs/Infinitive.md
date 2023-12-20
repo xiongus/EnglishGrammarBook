@@ -194,7 +194,7 @@ Please <u>remember</u> <u>to bring this book to class next week</u>.
 V O
 (下周请记得带这本书来上课。)
 
-这个句子可以还原为复句如下：
+这个句子可以还原为复合句如下：
 
 Please <u>remember</u> <u>that you must bring this book to class next week</u>.
 V O（名词从句）
@@ -205,7 +205,7 @@ V O（名词从句）
 S V O
 (我记得上周有带一位朋友去参加你的宴会。)
 
-这个句子可以还原为复句如下：
+这个句子可以还原为复合句如下：
 
 <u>I</u> <u>remember</u> <u>that I brought a friend to your party last week</u>.
 S V O（名词从句）
@@ -216,7 +216,7 @@ Sorry, <u>I</u> <u>forgot</u> <u>to call in advance</u>.
 S V O
 (对不起，我忘了应该先打电话。)
 
-可以还原为复句如下：
+可以还原为复合句如下：
 
 Sorry, <u>I</u> <u>forgot</u> <u>that I should call in advance</u>.
 S V O
@@ -227,7 +227,7 @@ S V O
 S V O
 （我忘了已经打过电话给披萨店，结果又打了一次。）
 
-可以还原为复句如下：
+可以还原为复合句如下：
 
 <u>I</u> <u>forgot</u> <u>that I had called the pizza shop</u>….
 S V O

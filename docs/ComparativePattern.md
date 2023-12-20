@@ -1,6 +1,6 @@
 # 第六章 比较句法
 
-英文的修饰语包括形容词与副词，都有比较级与最高级的变化。以连词 as 或 than 连接的比较级句子，不论是形容词还是副词的比较级，都可以视为主要从句加从属从句构成的复句结构：从属连词 than 或 as 引导的从句是状语从句。
+英文的修饰语包括形容词与副词，都有比较级与最高级的变化。以连词 as 或 than 连接的比较级句子，不论是形容词还是副词的比较级，都可以视为主要从句加从属从句构成的复合句结构：从属连词 than 或 as 引导的从句是状语从句。
 
 比较级的从属从句虽然是状语从句，但是因为英文的比较句法具有「平行对称」的要求，所以有许多特色都和对等从句相同。除了上述「平行对称」的要求之外，比较句法也和对等从句一样经常会有省略。这是因为，两个符合平行对称要求的从句之间往往会有重复的部分，而重复会妨碍简洁性，因此要设法省略。
 
@@ -25,7 +25,7 @@ S V C
 <u>Unit 4</u> <u>is</u> not so <u>long</u>.
 S V C
 
-从某个角度来看，这两个句子的关系有点像关系从句：两句在 long 这个字上有交集而产生关系。但是，真正的关系从句是在名词上建立关系（先行词一定是名词）而改写出来的表语从句。我们现在看到的这两个句子则是在形容词 long 上有重复，要写成一个比较句法的复句结构，当中的从属从句是个状语从句。
+从某个角度来看，这两个句子的关系有点像关系从句：两句在 long 这个字上有交集而产生关系。但是，真正的关系从句是在名词上建立关系（先行词一定是名词）而改写出来的表语从句。我们现在看到的这两个句子则是在形容词 long 上有重复，要写成一个比较句法的复合句结构，当中的从属从句是个状语从句。
 
 第 1 句和第 2 句在比较的是 long 这个形容词补语，两句之间有「大于」的关系，可以用 longer than 来连接，其中 than 是从属连词，引导状语从句，如下：
 
@@ -285,7 +285,7 @@ S V O
 S V O
 （本地农民做不到什么观光客的生意。）
 
-这两个句子用 more … than 连接，可以制造出这个表示「大于」的比较级复句：
+这两个句子用 more … than 连接，可以制造出这个表示「大于」的比较级复合句：
 
 <u>These restaurateurs do more business with tourists</u> than <u>local farmers do with tourists</u>.
 
@@ -343,7 +343,7 @@ S V C
 S V C
 (粗工并不强烈排斥白领阶级——大量涌进国内的外劳对后者的工作不会构成严重的威胁。)
 
-第 1 句当中有个介词短语 to immigrants，和第 2 句中的介词短语 to white-collar workers 相比较，可以采用表示「大于」的比较句法、用 more … than 连接两句成为复句如下：
+第 1 句当中有个介词短语 to immigrants，和第 2 句中的介词短语 to white-collar workers 相比较，可以采用表示「大于」的比较句法、用 more … than 连接两句成为复合句如下：
 
 <u>Manual laborers are more strongly opposed to immigrants</u> than <u>manual laborers are opposed to white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country.
 
@@ -374,7 +374,7 @@ S V C
 <u>Manual laborers are more strongly opposed to immigrants</u> than <u>white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country, <u>are opposed to immigrants</u>.
 (粗工排斥移民的程度超过白领阶级排斥移民的程度——大量涌进国内的外人对白领阶级的工作并不构成严重的威胁。)
 
-这是个比较句法的复句。连词 than 引导的从属从句中，补语部分 opposed to immigrants 和主要从句的补语相同、可以省略，成为：
+这是个比较句法的复合句。连词 than 引导的从属从句中，补语部分 opposed to immigrants 和主要从句的补语相同、可以省略，成为：
 
 <u>Manual laborers are more strongly opposed to immigrants</u> than <u>white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country, <u>are</u>.
 

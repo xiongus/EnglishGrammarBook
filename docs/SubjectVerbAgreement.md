@@ -418,7 +418,7 @@ France has adopted the Euro.
 
 Other nations in the EU have adopted the Euro.
 
-这两个句子用比较级的连词 as well as 连接起来，可以造出比较级的复句如下：
+这两个句子用比较级的连词 as well as 连接起来，可以造出比较级的复合句如下：
 
 France has adopted the Euro, as well as other nations in the EU <u>have adopted the Euro</u>.
 
@@ -450,7 +450,7 @@ The numerous stories behind it have fascinated viewers for ages.
 
 The painting itself has fascinated viewers for ages.
 
-这两个句子可以用 no less than 这组比较级的连词连接起来，然后省略掉从属从句中（从属连词 no less than 后面）重复的部分，成为复句如下：
+这两个句子可以用 no less than 这组比较级的连词连接起来，然后省略掉从属从句中（从属连词 no less than 后面）重复的部分，成为复合句如下：
 
 The numerous stories behind it have fascinated viewers for ages <u>no less than the painting itself (has)</u>.
 

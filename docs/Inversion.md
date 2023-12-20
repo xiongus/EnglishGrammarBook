@@ -1,6 +1,6 @@
 # 第二十一章 倒装句
 
-单句、合句、复句等等初级到中级的句型构造都搞清楚了，接下来即将进入「减化从句」这种高级句型。不过，有一种特殊的句型构造称为**倒装（inversion）**，应该先弄清楚，对句型的认识才算完整。
+单句、合句、复合句等等初级到中级的句型构造都搞清楚了，接下来即将进入「减化从句」这种高级句型。不过，有一种特殊的句型构造称为**倒装（inversion）**，应该先弄清楚，对句型的认识才算完整。
 
 倒装句的特色在于主语和动词的顺序颠倒：动词在前、主语在后。从这个定义来看，所有的疑问句都可以算是倒装句。疑问句属于比较基础的语法，比较值得研究的是具有修辞功能的倒装句。
 
@@ -63,12 +63,12 @@ The typhoon, <u>the weatherman says</u>, is expected to swerve north for Japan.
 S V O
 绿色和平，一个规模虽小但声音很大的组织、致力以一切手段保护环境，警告说捕鲸将不被容忍。
 
-这个句子是 S + V + O 的句型，在主语动词中间打了一对逗点、放了个同位格。句型虽然完全正确，修辞效果却不佳。因为：句子的重点在于 whale hunting will not be tolerated 这个间接引句，却被挤到最后面，没有获得应有的强调。如果只是把间接引句移到句首、动词并不倒装，句子会变成这样：
+这个句子是 S + V + O 的句型，在主语动词中间打了一对逗点、放了个同位语。句型虽然完全正确，修辞效果却不佳。因为：句子的重点在于 whale hunting will not be tolerated 这个间接引句，却被挤到最后面，没有获得应有的强调。如果只是把间接引句移到句首、动词并不倒装，句子会变成这样：
 
 <u>Whale hunting will not be tolerated</u>, <u>Green Peace</u>, a small but vociferous organization de dicated to environmental protection by any means possible, <u>warns</u>
 O S V
 
-这种讲法固然凸显了引用句的重要性，但是修辞效果仍然欠佳，因为主语 Green Peace 和动词 warns 中间隔了一个很长的同位格，而且动词 warns 和宾语从句 whale hunting will not be tolerated 之间又隔了更长的距离，造成的结果就是句子不够清楚。这时候如果选择倒装、让动词跟着宾语从句一同移到主语前面去，就是下面这个倒装句：
+这种讲法固然凸显了引用句的重要性，但是修辞效果仍然欠佳，因为主语 Green Peace 和动词 warns 中间隔了一个很长的同位语，而且动词 warns 和宾语从句 whale hunting will not be tolerated 之间又隔了更长的距离，造成的结果就是句子不够清楚。这时候如果选择倒装、让动词跟着宾语从句一同移到主语前面去，就是下面这个倒装句：
 
 <u>Whale hunting will not be tolerated</u>, <u>warns</u> <u>Green Peace</u>, a small but vociferous organization dedic ate​​d to environmental protection by any means possible.
 O V S
@@ -118,7 +118,7 @@ The Amazon is <u>a pristine river</u>.
 S V 地方副词
 (致命的食人鱼在那条河中漫游。)
 
-两句在名词 river 上重复而建立关系，可以把句 2 中的 river 改写为关系代词 which，然后把介词短语 in which 移到句首扮演连词角色，成为关系从句 in which the deadly pirana roam，再将关系从句置于句 1 的先行词 river 之后，就成为下面这个复句：
+两句在名词 river 上重复而建立关系，可以把句 2 中的 river 改写为关系代词 which，然后把介词短语 in which 移到句首扮演连词角色，成为关系从句 in which the deadly pirana roam，再将关系从句置于句 1 的先行词 river 之后，就成为下面这个复合句：
 
 The amazon is <u>a pristine river</u> [<u>in which</u> <u>the deadly pirana</u> <u>roam</u>].
 先行词 地方副词 S V
@@ -138,7 +138,7 @@ The Amazon is <u>a pristine river</u>.
 S V O
 (环保人士喜爱那条河。)
 
-这两个句子在 river 一字的重复上建立关系，可以用关系​​从句构成复句如下：
+这两个句子在 river 一字的重复上建立关系，可以用关系​​从句构成复合句如下：
 
 The Amazon is <u>a pristine river</u> [<u>which</u> <u>environmentalists</u> <u>love</u>].
 先行词 O S V
@@ -269,7 +269,7 @@ S V O
 S V O
 （他太太养了一只会唱歌的金丝雀、两只会讲话的鹦鹉，就不那么爱猫了。）
 
-这两个句子可以用 more … than 连接起来制造一个比较级的复句，比较点是副词 very much：两个人来比谁爱猫比较多。如果不作任何省略，结果就是下面这个复句：
+这两个句子可以用 more … than 连接起来制造一个比较级的复合句，比较点是副词 very much：两个人来比谁爱猫比较多。如果不作任何省略，结果就是下面这个复合句：
 
 <u>My uncle</u> <u>loves</u> <u>his cat</u> more [<u>than</u> <u>his wife</u>, who keeps a singing canary and two talking parrots, <u>loves</u> <u>the cat</u>].
 S V O 连词 S V O

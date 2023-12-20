@@ -321,4 +321,4 @@ S V C
 
 The pilot's wife is concerned over <u>the possibility</u> <u>that he might get killed</u>.
 
-在形容词 concerned 后面本来有个介词短语 over the possibility 修饰它、说明是「对这种可能性」感到担心。接下来的 that he might get killed 这个名词从句扮演的角色是当 the possibility 的同位格使用。一旦省略掉介词短语 over the possibility，就比较不容易看出来后面那个名词从句是​​什么功能了。
+在形容词 concerned 后面本来有个介词短语 over the possibility 修饰它、说明是「对这种可能性」感到担心。接下来的 that he might get killed 这个名词从句扮演的角色是当 the possibility 的同位语使用。一旦省略掉介词短语 over the possibility，就比较不容易看出来后面那个名词从句是​​什么功能了。

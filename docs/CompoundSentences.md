@@ -33,7 +33,7 @@ We can see snow-covered hills.
 <u>We are sitting here in the sun</u>, and <u>we can see snow-covered hills</u>.（合句）
 对等从句 对等从句
 
-<u>As we sit here in the sun</u>, <u>we can see snow-covered hills</u>.（复句）
+<u>As we sit here in the sun</u>, <u>we can see snow-covered hills</u>.（复合句）
 从属从句 主要从句
 
 ### 高级：减化从句

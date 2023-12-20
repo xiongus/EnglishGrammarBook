@@ -6,7 +6,7 @@
 
 ## 关系从句的构造
 
-名词从句和状语从句的连词都是外加的：直述句改造成名词从句要外加一个没有意义的连词 that，状语从句则要外加一个有意义、表达逻辑关系的连词如 because 之类。关系从句的构造和这两种从句都有很大的不同：关系从句并没有外加连词，而是将一个内含的重复元素改写为关系词。
+名词从句和状语从句的连词都是外加的：陈述句改造成名词从句要外加一个没有意义的连词 that，状语从句则要外加一个有意义、表达逻辑关系的连词如 because 之类。关系从句的构造和这两种从句都有很大的不同：关系从句并没有外加连词，而是将一个内含的重复元素改写为关系词。
 
 要制造关系从句有一个前提：这个从句和主要从句之间必须要「有关系」，也就是两个从句之间必须要有一个重复的元素产生关系、在这个重复点上改写为关系词，才能够制造出关系从句。两个句子之间如果没有任何交集、没有关系，就无法写成关系从句。
 
@@ -16,12 +16,12 @@
 S V O 关系从句
 （我知道一件事，那是没有别人知道的。）
 
-这个复句中，关系从句 which nobody else knows 并没有外加连词，而是由「内含」的重复元素改写而来。可以拆开为下面这两个单句来理解：
+这个复合句中，关系从句 which nobody else knows 并没有外加连词，而是由「内含」的重复元素改写而来。可以拆开为下面这两个单句来理解：
 
 I know <u>something</u>.
 Nobody else knows <u>it</u>.
 
-前后两个句子因为先行词 something 与代词 it 产生交集而建立关系，符合了关系从句「必须有关系」的前提，可以制造关系从句。做法是将句 2 的交集点那个代词 it 改写为关系代词 which，再将 which 移到句首扮演连词的角色、成为 which nobody else knows 这个关系从句。把这个关系从句放在先行词 something 后面当表语从句来修饰它，结果就是前面那个复句。
+前后两个句子因为先行词 something 与代词 it 产生交集而建立关系，符合了关系从句「必须有关系」的前提，可以制造关系从句。做法是将句 2 的交集点那个代词 it 改写为关系代词 which，再将 which 移到句首扮演连词的角色、成为 which nobody else knows 这个关系从句。把这个关系从句放在先行词 something 后面当表语从句来修饰它，结果就是前面那个复合句。
 
 ## 关系代词
 
@@ -36,13 +36,13 @@ Nobody else knows <u>it</u>.
 People <u>who live in glass houses</u> shouldn't throw stones.
 (住在玻璃屋里的人不该乱扔石头。)
 
-这个复句是一句英文谚语,画底线部分( who 从句)就是关系从句,修饰先行词 people。可以拆开为以下两句来了解:
+这个复合句是一句英文谚语,画底线部分( who 从句)就是关系从句,修饰先行词 people。可以拆开为以下两句来了解:
 
 <u>People</u> shouldn’t throw stones.
 <u>They</u> <u>live</u> in glass houses.
 S V
 
-第 2 句中的主语 they 就是第1句中的 people, 由此产生交集而建立关系,可以把代词 they 改写为关系代词 who,制造出关系从句 who live in glass houses 成为一个表语从句、放在先行词 people 后面修饰它,结果就是前面那个复句。
+第 2 句中的主语 they 就是第1句中的 people, 由此产生交集而建立关系,可以把代词 they 改写为关系代词 who,制造出关系从句 who live in glass houses 成为一个表语从句、放在先行词 people 后面修饰它,结果就是前面那个复合句。
 
 关系词是和先行词重复的元素。如果从修辞的角度来考量,只要是重复都有可能是累赘,应该尽量精简。所以,关系词经常会被省略掉以避免重复。以关系代词而言,能不能省略要看省略之后的句子是否够清楚而定。如果会造成不清楚,就不能省略关系代词。拿上面那个例子来说, 关系代词 who 在关系从句中扮演主语的角色,如果省略掉它,结果如下:
 
@@ -50,7 +50,7 @@ People live in glass houses shouldn’t throw stones. (误)
 
 这个句子,读者看不出来有省略掉关系词 who,看到的印象是 people 是主语、live 是动词,后面又有第二个动词 shouldn’t throw,因而是个错误的句子。所以: 关系代词在关系从句中当主语使用时不能省略。
 
-另外,在 People who live in glass houses shouldn't throw stones 这个复句中,关系从句 who live in glass houses 具有指示功能(指出是「哪一种」人), 所以关系代词 who 也可以改写为来自指示代词的 that (表示「那种」),如下:
+另外,在 People who live in glass houses shouldn't throw stones 这个复合句中,关系从句 who live in glass houses 具有指示功能(指出是「哪一种」人), 所以关系代词 who 也可以改写为来自指示代词的 that (表示「那种」),如下:
 
 People <u>that</u> live in glass houses shouldn’t throw stones.
 
@@ -69,7 +69,7 @@ Jack is <u>a man</u>.
 S V O
 （我完全信赖这个人。）
 
-这两个句子在名词 man 产生交集而建立关系。第 2 句中的 the man 是动词 trust 的宾语，如果改成普通代词的话应该是宾格的 him，再改成关系代词就是 whom。接下来必须把 whom 移到句首成为关系从句 whom I trust completely、放在第 1 句的先行词 a man 后面当表语从句来修饰它，结果就成为这个复句：
+这两个句子在名词 man 产生交集而建立关系。第 2 句中的 the man 是动词 trust 的宾语，如果改成普通代词的话应该是宾格的 him，再改成关系代词就是 whom。接下来必须把 whom 移到句首成为关系从句 whom I trust completely、放在第 1 句的先行词 a man 后面当表语从句来修饰它，结果就成为这个复合句：
 
 (A) Jack is <u>a man</u> [<u>whom</u> <u>I</u> <u>trust</u> completely].
 先行词 O S V
@@ -95,7 +95,7 @@ You should talk <u>to him</u>.
 介词短语
 （你应该和此人谈谈。）
 
-第 2 句中的代词 him 现在是介词 in 的宾语。把它改写成关系代词，应该采用宾格 whom。如果选择把介词短语拆开、只把关系代词 whom 移到句首，结果就是底下这个复句：
+第 2 句中的代词 him 现在是介词 in 的宾语。把它改写成关系代词，应该采用宾格 whom。如果选择把介词短语拆开、只把关系代词 whom 移到句首，结果就是底下这个复合句：
 
 Jack is a man [<u>whom</u> you should talk <u>to</u>].
 宾语 介词
@@ -109,7 +109,7 @@ Jack is a man <u>who</u> you should talk to.
 Jack is a man you should talk to.
 Jack is a man <u>that</u> you should talk to.
 
-还有一种做法：如果选择不拆开、而是把整个介词短语一起移到句首，就会成为下面这个复句：
+还有一种做法：如果选择不拆开、而是把整个介词短语一起移到句首，就会成为下面这个复合句：
 
 Jack is a man [<u>to whom</u> you should talk].
 介词短语
@@ -122,7 +122,7 @@ After the stroke, John is not <u>the man</u> <u>who he used to be</u>.
 先行词 关系从句
 （中风之后，John 的情况比从前差多了。）
 
-字面上是「John 不再是从前那个男人了」。这个复句可以拆开为下面这两句来理解：
+字面上是「John 不再是从前那个男人了」。这个复合句可以拆开为下面这两句来理解：
 
 After the stroke, John is not <u>the man</u>.
 <u>He</u> <u>used to be</u> <u>the man</u>.
@@ -169,7 +169,7 @@ I like <u>movies</u> <u>which make me think</u>.
 先行词 关系从句
 我喜欢看会令我思考的电影。
 
-这个复句中的关系从句因为具有指出「哪种」电影的功能，所以关系代词也可以借用指示性的 that，如下：
+这个复合句中的关系从句因为具有指出「哪种」电影的功能，所以关系代词也可以借用指示性的 that，如下：
 
 I like movies <u>that</u> make me think.
 
@@ -183,13 +183,13 @@ I like movies <u>that</u> make me think.
 <u>I</u> <u>saw</u> <u>the movie</u> last night.
 S V O
 
-两句因 the movie 的重复而建立关系，可以制造关系从句来连接。做法是把句 2 的重复点改写为关系代词 which、移到句首充当连词，成为 which I saw last night 这个关系从句，然后把关系从句置于句1的先行词 the movie 之后，成为下面这个复句：
+两句因 the movie 的重复而建立关系，可以制造关系从句来连接。做法是把句 2 的重复点改写为关系代词 which、移到句首充当连词，成为 which I saw last night 这个关系从句，然后把关系从句置于句1的先行词 the movie 之后，成为下面这个复合句：
 
 <u>The movie</u> <u>which I saw last night</u> was excellent.
 S 关系从句
 （我昨晚看的那部电影好极了。）
 
-这个复句中的关系从句有指出「哪一部」电影的功能，因此关系代词可以改写为 that。另外，关系代词 which 或 that 在关系从句中当宾语使用，所以也可以省略，如下：
+这个复合句中的关系从句有指出「哪一部」电影的功能，因此关系代词可以改写为 that。另外，关系代词 which 或 that 在关系从句中当宾语使用，所以也可以省略，如下：
 
 The movie <u>that</u> I saw last night was excellent.
 The movie I saw last night was excellent.
@@ -201,7 +201,7 @@ My favorite movies are <u>these</u>.
 <u>All ends</u> well <u>in those movies</u>.
 S V 介词短语
 
-句 1 中的 those 代表的就是 those movies (省略掉名词 movies),和句 2 中的 those movies 重复而建立关系,可以制造关系从句来连接。做法是把句 2 中的重复点 those movies 改写为关系代词 which,然后把整个介词短语 in which 移到句首充当连词,成为关系从句 in which all ends well, 再把这个关系从句放在句 1 的先行词 those 后面当形容词使用,成为下面这个复句:
+句 1 中的 those 代表的就是 those movies (省略掉名词 movies),和句 2 中的 those movies 重复而建立关系,可以制造关系从句来连接。做法是把句 2 中的重复点 those movies 改写为关系代词 which,然后把整个介词短语 in which 移到句首充当连词,成为关系从句 in which all ends well, 再把这个关系从句放在句 1 的先行词 those 后面当形容词使用,成为下面这个复合句:
 
 My favorite movies are <u>those</u> <u>in which all ends well</u>.
 先行词 关系从句
@@ -237,7 +237,7 @@ That chair <u>that</u> you’re sitting on is an antique.
 <u>John</u> <u>calls</u> <u>his dog</u> <u>the name</u>.
 S V O C
 
-两句在 the name 上产生重复而建立关系，可以制造关系从句。做法是把句 2 中的宾语补语 the name 改写为关系代词 which，然后移到句首充当连词，成为关系从句 which John calls his dog，然后放在句 1 的先行词 the name 后面当表语从句使用，成为这个复句：
+两句在 the name 上产生重复而建立关系，可以制造关系从句。做法是把句 2 中的宾语补语 the name 改写为关系代词 which，然后移到句首充当连词，成为关系从句 which John calls his dog，然后放在句 1 的先行词 the name 后面当表语从句使用，成为这个复合句：
 
 <u>The name</u> <u>which John calls his dog</u> is a rea​​lly odd one.
 先行词 关系从句
@@ -284,7 +284,7 @@ You can marry <u>any daughter of mine</u>.
 <u>You</u> <u>like</u> <u>that (daughter)</u>.
 S V O
 
-句 2 中的名词短语 that daughter 可以省略掉名词部分（daughter）只剩下限定词 that，再由 that 与先行词 any daughter of mine 的重复而建立关系。改写为关系代词时，限定词 that 应该改写为 which 而不是 who，成为 which you like 这个关系从句，放在先行词 any daughter of mine 后面成为如下的复句：
+句 2 中的名词短语 that daughter 可以省略掉名词部分（daughter）只剩下限定词 that，再由 that 与先行词 any daughter of mine 的重复而建立关系。改写为关系代词时，限定词 that 应该改写为 which 而不是 who，成为 which you like 这个关系从句，放在先行词 any daughter of mine 后面成为如下的复合句：
 
 You can marry <u>any daughter of mine</u> <u>which you like</u>.
 先行词 关系从句
@@ -313,17 +313,17 @@ The whole house was overrun with <u>ants</u>, <u>which were</u> rather weird.
 
 The whole house was overrun with ants, <u>which frightened</u> the visitor. （不佳）
 
-关系从句的动词 frig​​htened 看不出来是单数还是复数，表示主语 which（以及先行词）单复数都可以。这时候，先行词说是「这件事情」也讲得通、说是「这种蚂蚁」也讲得通。一个句子有两种可能的解释、令读者无法判断作者到底是什么意思，这就是不好的句子。碰到这种情况必须改写到清楚为止。改写的办法很多，有一种很好用的办法是加个同位格在关系代词 which 前面，例如：
+关系从句的动词 frig​​htened 看不出来是单数还是复数，表示主语 which（以及先行词）单复数都可以。这时候，先行词说是「这件事情」也讲得通、说是「这种蚂蚁」也讲得通。一个句子有两种可能的解释、令读者无法判断作者到底是什么意思，这就是不好的句子。碰到这种情况必须改写到清楚为止。改写的办法很多，有一种很好用的办法是加个同位语在关系代词 which 前面，例如：
 
 The whole house was overrun with ants, <u>a sight</u> which frightened the visitor.
 （整个房子爬满了蚂蚁，这幅景象吓坏了访客。）
 
-加个名词短语 a sight 做前面整个主要从句的同位格，那么关系代词只能代表这个先行词 a sight，所以很清楚：吓人的是「这幅景象」。
+加个名词短语 a sight 做前面整个主要从句的同位语，那么关系代词只能代表这个先行词 a sight，所以很清楚：吓人的是「这幅景象」。
 
 The whole house was overrun with ants, <u>nasty insects</u> which frightened the visitor.
 （整个房子爬满了蚂蚁，这些讨厌的昆虫吓坏了访客。）
 
-如果要表示吓人的是「蚂蚁」，只要选择蚂蚁的同位格如 nasty insects 就行了。
+如果要表示吓人的是「蚂蚁」，只要选择蚂蚁的同位语如 nasty insects 就行了。
 
 ## 指示功能
 
@@ -489,7 +489,7 @@ S V O C
 S V O
 (他说了一件事情。)
 
-这两个句子在 something 上重复而建立关系，可以把句2中的重复点 something 改写为关系代词 which 或 that、移到句首当连词使用，成为关系从句 that he said，然后把这个关系从句置于句 1 中先行词 something 后面，成为复句如下：
+这两个句子在 something 上重复而建立关系，可以把句2中的重复点 something 改写为关系代词 which 或 that、移到句首当连词使用，成为关系从句 that he said，然后把这个关系从句置于句 1 中先行词 something 后面，成为复合句如下：
 
 <u>You</u> <u>mustn’t let</u> <u>something</u> [that he said] <u>bother you</u>.
 S V O 关系从句 C
@@ -518,12 +518,12 @@ S V C
 S V O
 (你现在说任何事情。)
 
-这两个句子在 anything 上重复而建立关系，可以把句 2 中的重复点 anything 改写为关系代词 which 或 that、移到句首扮演连词角色，成为关系从句 that you say now，置于句1中的先行词 anything 之后，成为复句如下：
+这两个句子在 anything 上重复而建立关系，可以把句 2 中的重复点 anything 改写为关系代词 which 或 that、移到句首扮演连词角色，成为关系从句 that you say now，置于句1中的先行词 anything 之后，成为复合句如下：
 
 <u>Anything</u> [that you say now] <u>may be</u> <u>used</u> against you in court.
 S 关系从句 V C
 
-主要从句的句型分析我们采取简单化的认定：be 是动词、后面的过去分词 used 是形容词当主语补语。中括弧里面是个关系从句，当表语从句使用、修饰先行词 anything。这个关系从句中，关系代词 that 扮演宾语的角色（是动词 say 的宾语），可以选择把它省略掉。另外，因为先行词 anything 是个空洞无意义的字，也可以选择把先行词省略掉。但是先行词 anything 在主要从句中扮演主语的角色。如果选择把先行词省略掉，就必须把关系代词 that 改写为复合关系代词（如 whatever），成为这个复句：
+主要从句的句型分析我们采取简单化的认定：be 是动词、后面的过去分词 used 是形容词当主语补语。中括弧里面是个关系从句，当表语从句使用、修饰先行词 anything。这个关系从句中，关系代词 that 扮演宾语的角色（是动词 say 的宾语），可以选择把它省略掉。另外，因为先行词 anything 是个空洞无意义的字，也可以选择把先行词省略掉。但是先行词 anything 在主要从句中扮演主语的角色。如果选择把先行词省略掉，就必须把关系代词 that 改写为复合关系代词（如 whatever），成为这个复合句：
 
 [Whatever you say now] <u>may be</u> <u>used</u> against you in court.
 S 关系从句 V C
@@ -540,7 +540,7 @@ S V C
 S V O
 (你选择那天。)
 
-句 2 中的 that day 指的就是句 1 的 any day，经此重复而建立关系，可以制造关系从句。做法是把句 2 中的重复点 that day 改写为关系代词 which、成为关系从句 which you choose，再将关系从句置于句1中的​​先行词 any day 之后，成为复句如下：
+句 2 中的 that day 指的就是句 1 的 any day，经此重复而建立关系，可以制造关系从句。做法是把句 2 中的重复点 that day 改写为关系代词 which、成为关系从句 which you choose，再将关系从句置于句1中的​​先行词 any day 之后，成为复合句如下：
 
 <u>Any day</u> [which you choose] <u>is</u> <u>fine</u> with me.
 S 关系从句 V C
@@ -560,7 +560,7 @@ S V O (任何人都可以赢得一千元。)
 <u>The person</u> <u>reaches</u> <u>the mountaintop</u> first.
 S V O (这个人最早爬到山顶。)
 
-两个句子在 person 上重复而建立关系，可以制造关系从句来连接。做法是把句 2 中的重复点 the person 改写为关系代词 who、成为关系从句 who reaches the mountaintop first，然后置于句 1 中的​​先行词 any person 之后，成为复句如下：
+两个句子在 person 上重复而建立关系，可以制造关系从句来连接。做法是把句 2 中的重复点 the person 改写为关系代词 who、成为关系从句 who reaches the mountaintop first，然后置于句 1 中的​​先行词 any person 之后，成为复合句如下：
 
 <u>Any person</u> [who reaches the mountaintop first] <u>will win</u> <u>1,000 dollars</u>.
 S 关系从句 V O
@@ -600,7 +600,7 @@ T<u>he person</u> <u>returns</u> first.
 S V
 （此人最早回来。）
 
-第 2 句的 the person 就是第 1 句仲介词的宾语 any person，可以改写为关系代词 who 或 that，制造一个关系从句来写成下面这个复句：
+第 2 句的 the person 就是第 1 句仲介词的宾语 any person，可以改写为关系代词 who 或 that，制造一个关系从句来写成下面这个复合句：
 
 I’ll give 100 dollars <u>to</u> <u>any person</u> <u>that returns first</u>.
 介词 先行词 关系从句
@@ -645,7 +645,7 @@ The earthquake hit at <u>a time</u>.
 S V C 时间副词
 （这时大部分人都睡得正熟。）
 
-句 2 中的时间副词 then 指的就是句 1 中的先行词 a time，两句在此重复而建立关系，可以将句 2 的时间副词 then 改写为关系副词 when、移到句首扮演连词的角色，成为关系从句 when most people were sound asleep，然后置于句 1 中的​​先行词 a time 后面修饰它，成为复句如下：
+句 2 中的时间副词 then 指的就是句 1 中的先行词 a time，两句在此重复而建立关系，可以将句 2 的时间副词 then 改写为关系副词 when、移到句首扮演连词的角色，成为关系从句 when most people were sound asleep，然后置于句 1 中的​​先行词 a time 后面修饰它，成为复合句如下：
 
 The earthquake hit at <u>a time</u> <u>when most people were sound asleep</u>.
 先行词 关系从句
@@ -663,7 +663,7 @@ The earthquake hit at a time most people were sound asleep.
 <u>The earthquake</u> <u>hit</u> <u>when most people were sound asleep</u>.
 S V 状语从句
 
-这个句子，看起来好像是把包含先行词在内的 at a time 省略掉、只留下关系副词 when 引导的关系从句。但是，关系从句不能没有先行词，而且关系副词也没有资格省略先行词（只有复合关系代词 what, whatever, who(m)ever, whichever 才能省略先行词）。上面这个句子正确的诠释是把 when 视为从属连词看待，外加在直述句 most people were sound asleep 的前面、引导一个时间状语从句，直接修饰主要从句动词 hit 的时间。同时，这里的 when 既然是状语从句外加的从属连词、并非关系词，当然不能够改写为 that。而且，状语从句外加的连词不是关系副词、不能省略。所以上面那个句子中的 when 也不能省略。
+这个句子，看起来好像是把包含先行词在内的 at a time 省略掉、只留下关系副词 when 引导的关系从句。但是，关系从句不能没有先行词，而且关系副词也没有资格省略先行词（只有复合关系代词 what, whatever, who(m)ever, whichever 才能省略先行词）。上面这个句子正确的诠释是把 when 视为从属连词看待，外加在陈述句 most people were sound asleep 的前面、引导一个时间状语从句，直接修饰主要从句动词 hit 的时间。同时，这里的 when 既然是状语从句外加的从属连词、并非关系词，当然不能够改写为 that。而且，状语从句外加的连词不是关系副词、不能省略。所以上面那个句子中的 when 也不能省略。
 
 关系副词的先行词为何不能省略，看看下面这个句子就了解了：
 
@@ -695,7 +695,7 @@ S V O 名词从句
 <u>He</u> <u>knows</u> <u>that he can travel incognito with his wife</u>.
 S V O 名词从句
 
-这并不是把关系副词 when 改为 that，而是在直述句 He can travel incognito with his wife 外面直接加上无意义的连词 that 变成名词从句，表示「那句话、那件事」，整个名词从句当做动词 know 的宾语。
+这并不是把关系副词 when 改为 that，而是在陈述句 He can travel incognito with his wife 外面直接加上无意义的连词 that 变成名词从句，表示「那句话、那件事」，整个名词从句当做动词 know 的宾语。
 
 ### 二、where
 
@@ -707,7 +707,7 @@ S V 先行词
 S V C 地方副词
 （那里根本不可能工作。）
 
-第 1 句中的先行词 a place 和第 2 句中的地方副词 there 重复而建立关系，可以把 there 改写成关系副词 where，制造出下面这个复句：
+第 1 句中的先行词 a place 和第 2 句中的地方副词 there 重复而建立关系，可以把 there 改写成关系副词 where，制造出下面这个复合句：
 
 The artist lived in <u>a place</u> <u>where it was impossible to work</u>.
 先行词 关系从句
@@ -732,7 +732,7 @@ S V 状语从句
 <u>The artist</u> <u>rented</u> <u>an apartment</u> [where he could work].
 S V O 关系从句
 
-这个复句中，an apartment 是先行词，where 是关系副词，where he could work 是关系从句、当表语从句使用，修饰先行词 an apartment。这个关系从句没有逗点和先行词隔开，是具有指示功能的用法，所以关系副词 where 可以改写为指示功能明确的 that、也可以选择省略，如下：
+这个复合句中，an apartment 是先行词，where 是关系副词，where he could work 是关系从句、当表语从句使用，修饰先行词 an apartment。这个关系从句没有逗点和先行词隔开，是具有指示功能的用法，所以关系副词 where 可以改写为指示功能明确的 that、也可以选择省略，如下：
 
 The artist rented an apartment <u>that</u> he could work.
 The artist rented an apartment he could work.
@@ -743,7 +743,7 @@ The artist rented where he could work. （误）
 
 ### 三、how
 
-四个关系副词 when, where, how, why 之中，前面两个（when 与 where）比较麻烦，因为这两个除了当做关系副词来引导关系从句之外，还可以外加在直述句前面来引导时间状语从句与地方状语从句，所以会有比较多的混淆点。后面两个（how 与 why）就比较单纯，因为这两个不能够外加在限定从句外面构成状语从句（没有这种状语从句），所以比较不会搞错。看看例子：
+四个关系副词 when, where, how, why 之中，前面两个（when 与 where）比较麻烦，因为这两个除了当做关系副词来引导关系从句之外，还可以外加在陈述句前面来引导时间状语从句与地方状语从句，所以会有比较多的混淆点。后面两个（how 与 why）就比较单纯，因为这两个不能够外加在限定从句外面构成状语从句（没有这种状语从句），所以比较不会搞错。看看例子：
 
 <u>I</u> never <u>found out</u> <u>the way</u>.
 S V O
@@ -753,7 +753,7 @@ S V O
 S V 副词
 （他脱身就是用的这个方法。）
 
-第 2 句中表示方法状态的副词 so，意思就是 in this way，和第 1 句中的先行词 the way 有交集而建立关系，可以改写为关系副词 how，移到句首来连接两句，成为这个复句：
+第 2 句中表示方法状态的副词 so，意思就是 in this way，和第 1 句中的先行词 the way 有交集而建立关系，可以改写为关系副词 how，移到句首来连接两句，成为这个复合句：
 
 <u>I</u> never <u>found out</u> <u>the way</u> <u>how he escaped</u>.
 S V O（先行词） 关系从句
@@ -773,7 +773,7 @@ S V 名词从句
 <u>I</u> never <u>found out</u> <u>(that) he escaped</u>.
 S V 名词从句
 
-这并不表示名词从句的疑问词 how 可以改写为 that 或可以省略，而是意思不同：that he escaped 来自直述句 he escaped 外加无意义的连词 that，表示「那件事」，引导一个名词从句。所以整句话的意思是「他逃跑了，这件事情我一直不知道。」
+这并不表示名词从句的疑问词 how 可以改写为 that 或可以省略，而是意思不同：that he escaped 来自陈述句 he escaped 外加无意义的连词 that，表示「那件事」，引导一个名词从句。所以整句话的意思是「他逃跑了，这件事情我一直不知道。」
 
 ### 四、why
 
@@ -787,7 +787,7 @@ S V O
 S V O 副词
 （他要离婚是有原因的。）
 
-两个句子在 reason 上重复而建立关系，把第 2 句中的 for a rea​​son 改写为关系副词 why，用来连接两句，便会成为这个复句：
+两个句子在 reason 上重复而建立关系，把第 2 句中的 for a rea​​son 改写为关系副词 why，用来连接两句，便会成为这个复合句：
 
 The man didn’t explain <u>the reason</u> <u>why he wanted a divorce</u>.
 先行词 关系从句
@@ -807,7 +807,7 @@ S V O
 <u>He</u> <u>said</u> <u>that he wanted a divorce</u>.
 S V O 名词从句
 
-That 是直述句 he wanted a divorce 外加的连词，制造出一个名词从句当做 said 的宾语，意思是「那件事」，所以整句话的意思是：「他说他想要离婚。 」
+That 是陈述句 he wanted a divorce 外加的连词，制造出一个名词从句当做 said 的宾语，意思是「那件事」，所以整句话的意思是：「他说他想要离婚。 」
 
 有逗点隔开时
 
@@ -821,11 +821,11 @@ The civilization of ancient Egypt was born along <u>the Nile</u>, [where the soi
 先行词 关系从句
 （古埃及文明诞生于尼罗河畔，那里的土壤因为每年泛滥而保持肥沃。）
 
-这两个复句中，先行词（1492 与 the Nile）都是专有名词，所以后面的关系从句都只是补充说明的性质、不具指示功能，因而用逗点和先行词隔开。这种补充说明性质的关系从句没有指示功能，所以关系词不能采用 that。而且这里的 when 和 where 也不能够省略，因为括弧与主要从句切断开来，必须自给自足。
+这两个复合句中，先行词（1492 与 the Nile）都是专有名词，所以后面的关系从句都只是补充说明的性质、不具指示功能，因而用逗点和先行词隔开。这种补充说明性质的关系从句没有指示功能，所以关系词不能采用 that。而且这里的 when 和 where 也不能够省略，因为括弧与主要从句切断开来，必须自给自足。
 
 ### 分裂句
 
-有一种句型称为**分裂句（split construction）**，做法是把一个单句套进 it is … that … 的构造而分裂成为一主一从的复句。这种句型的目的是用来加强语气，里面必须动用到关系从句。例如：
+有一种句型称为**分裂句（split construction）**，做法是把一个单句套进 it is … that … 的构造而分裂成为一主一从的复合句。这种句型的目的是用来加强语气，里面必须动用到关系从句。例如：
 
 <u>Your friend</u> <u>stole</u> <u>a can of peaches</u> <u>at a 7-11 last night</u>.
 S V O 时间副词 地方副词
@@ -1060,7 +1060,7 @@ He can never beat his rival, [<u>however hard</u>(= No matter how hard) he tries
 
 拼成 that、具有连词功能的字，可以分成三种情况：
 
-1.  直述句外加单独无意义的连词 that，引导的是名词从句，例如：
+1.  陈述句外加单独无意义的连词 that，引导的是名词从句，例如：
 
 Are you sure [<u>that</u> everything is all right]?
 连词 名词从句

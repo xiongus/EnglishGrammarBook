@@ -639,14 +639,14 @@ S V C
 
 这个句子的主语补语 trustee 仍然和当主语的专有名词 Bill Gates 全等，似乎也可以把它当作专有名词看待。但是，「比尔与梅琳达盖兹基金会」有三名信托人：比尔盖兹、夫人梅琳达盖兹，以及股神华伦巴菲特。所以，这个补语 trustee 并不符合专有名词「只有一个」的要求、不能视同专有名词看待。因此还是要加上限定词成为 a trustee「一名信托人」。
 
-### 同位格位置
+### 同位语位置
 
-另外，专有名词的同位格也有可能视同专有名词处理，例如：
+另外，专有名词的同位语也有可能视同专有名词处理，例如：
 
 Ban Ki-moon, <u>Secretary General of the UN</u>, is a very powerful man.
 （潘基文，联合国秘书长，是个很有权势的人。）
 
-句中的 Secretary General of the UN 一般称为同位格，其实就是 who is Secretary General of the UN 这个表语从句的减化。其中 who 代表 Ban Ki-moon，而 Secretary General 则是主语补语，和 Ban Ki-moon 是全等关系，而且符合专有名词「只有一个」的条件，所以可以选择视同专有名词处理，不加限定词。
+句中的 Secretary General of the UN 一般称为同位语，其实就是 who is Secretary General of the UN 这个表语从句的减化。其中 who 代表 Ban Ki-moon，而 Secretary General 则是主语补语，和 Ban Ki-moon 是全等关系，而且符合专有名词「只有一个」的条件，所以可以选择视同专有名词处理，不加限定词。
 
 ### 宾语补语位置
 
