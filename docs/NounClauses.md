@@ -146,7 +146,7 @@ ___
 
 这五种位置中,陈述句改造的名词从句只用在前四种。疑问句改造的名词从句则都可以,以下分别探讨。
 
-注：陈述句改为名词从句时要加一个连词 that。这个连词因为只有语法功能而没有实质的意义,所以经常是能省则省。 在下面的例句中,如果连词 that 前后打括弧,表示它通常可以省略。
+注：陈述句改为名词从句时要加一个连词 that。这个连词因为只有语法功能而没有实质的意义,基本上可以直接省略掉。
     疑问词改写而来的名词从句，不可以省略连词。
 
 ### 一，主语位置
@@ -361,41 +361,37 @@ S V
 
 有一些经常听到、类似口头禅的用语，如 you know, I guess, I suppose 等等，看起来也是限定从句的构造，但是无甚意义，只是放在句中不重要的位置当个点缀。这种用语称为**评论从句（Comment Clause）**。例如：
 
-He was really afraid, <u>I believe</u>.
+>He was really afraid, <u>I believe</u>.
 （我看他是真的怕了。）
 
-This trick, <u>you know</u>, will never work.
+>This trick, <u>you know</u>, will never work.
 （你晓得，这一招是一定行不通的。）
 
 评论从句的用法往往就像上面两个例子所示：打个逗点放在句尾与主要从句隔开、或者前后加上一对逗点插入主要从句中间（通常是在主语与动词之间）。这种逗点的用法类似打上一对括弧、在括弧里面放的是可有可无的补充说明。
 
 ## 引用句
 
-直接引用句在引用文字前后加上双引号(”…”),间接引用句则会把双引号移除、引用的文字以名词从句方式纳入主要从句中。例如:
+直接引用句在引用文字前后加上双引号(”…”), 间接引用句则会把双引号移除、引用的文字以名词从句方式纳入主要从句中。例如:
 
-<u>The guard</u> <u>said</u>, <u>“The road is closed.”</u>
-S V O
+><u>The guard</u> <u>said</u>, <u>“The road is closed.”</u>
 
-<u>The guard</u> <u>said</u> <u>(that) the road was closed</u>.
-S V O
+><u>The guard</u> <u>said</u> <u>(that) the road was closed</u>.
 (警卫说道路封闭了。)
 
 请注意直接引句与间接引句在动词时态方面的变化。另外,不论是直接引句还是间接引句,引用的文字都可以移到句首来加强语气,这时候主要从句的动词可以选择倒装到主语前面、也可以不倒装,如下:
 
-“The road is closed,” <u>said the guard</u>.
-“The road is closed,” <u>the guard said</u>.
+>“The road is closed,” <u>said the guard</u>.
+>“The road is closed,” <u>the guard said</u>.
 The road was closed, <u>said the guard</u>.
-The road was closed, <u>the guard said</u>.
+>The road was closed, <u>the guard said</u>.
 
 在写作的时候,引用句如果采用倒装,修辞效果有时候会比较好。例如下面这个句子:
 
-<u>Frank Kazinsky</u>, chief analyst for the International Monetary Fund and an expert on oil, <u>says</u> <u>that oil prices will keep rising until the supply completely runs dry</u>.
-S V O 名词从句
+><u>Frank Kazinsky</u>, chief analyst for the International Monetary Fund and an expert on oil, <u>says</u> <u>that oil prices will keep rising until the supply completely runs dry</u>.
 (Frank Kazinsky, 国际货币基金会首席分析师、石油问题专家,表示油价将持续上涨直到供应完全枯竭为止。)
 
 这个句子的修辞效果不是很好,因为在主要从句主语 Frank Kazinsky 和动词 says 之间有很长的同位语隔开。而且读者比较感兴趣的是此人说了什么,却一直到最后面才揭晓。这时候不如采取倒装句,如下:
 
-<u>Oil prices will keep rising until the supply completely runs dry</u>, <u>says</u> <u>Frank Kazinsky</u>, chief analyst for the International Monetary Fund and an expert on oil.
-O 名词从句 V S
+><u>Oil prices will keep rising until the supply completely runs dry</u>, <u>says</u> <u>Frank Kazinsky</u>, chief analyst for the International Monetary Fund and an expert on oil.
 
 在倒装句中,读者感兴趣的内容移到句首最显著的位置。而且,动词移到主语前面之后就和主语消除了距离,主语后面的同位语不再构成干扰,因此这是修辞效果较佳的说法。
