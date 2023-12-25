@@ -1,6 +1,6 @@
 # 第二十五章 状语从句简化
 
-所有从属从句的减化，共通原则都是省略主语与 be 动词、留下补语部分，状语从句的减化也不例外。比较特别的地方是连词的处理：名词从句外加无意义的连词that在减化时会删除掉、关系从句重复的关系词也会在减化时一并省掉，只有状语从句的连词词既不空洞、又不重复，所以在减化时往往需要把连词保留下来，句子的意思才不会有损失。至于状语从句有哪些连词要保留、哪些应该省略，​​必须从句意去斟酌：省略掉连词之后句意仍然够清楚，才可以省略。
+所有从属从句的减化，共通原则都是省略主语与 be 动词、留下补语部分，状语从句的减化也不例外。比较特别的地方是连词的处理：名词从句外加无意义的连词that在减化时会删除掉、定语从句重复的关系词也会在减化时一并省掉，只有状语从句的连词词既不空洞、又不重复，所以在减化时往往需要把连词保留下来，句子的意思才不会有损失。至于状语从句有哪些连词要保留、哪些应该省略，​​必须从句意去斟酌：省略掉连词之后句意仍然够清楚，才可以省略。
 
 状语从句减化，动词部分的处理原则仍然和其他的从属从句相同：若有 be 动词则省略 be 动词、若有语气助动词则减化为表示不定式的 to，若只有普通动词则一律加 -ing。如此减化的结果，剩下的补语部分（减化从句）有可能是现在分词与过去分词这两种分词短语、不定式短语，以及其他（包括名词、形容词、介词短语等等）。以下依补语的词类分别说明状语从句的减化。
 
@@ -267,24 +267,24 @@ V 减化状语从句
 
 #### 句中
 
-句首位置的分词短语必须有逗点和主要从句隔开，否则是语法错误。放在句中位置就不一定了。分词短语放在句中位置如果没有逗点隔开，很可能是关系从句的减化，如下：
+句首位置的分词短语必须有逗点和主要从句隔开，否则是语法错误。放在句中位置就不一定了。分词短语放在句中位置如果没有逗点隔开，很可能是定语从句的减化，如下：
 
 <u>The teacher</u> [entering the classroom] <u>greeted</u> <u>the students</u>.
 S 减化表语从句 V O
 (进入教室的那位老师和学生们打招呼)
 
-这个位置的分词短语没有用逗点隔开，是下面这个关系从句减化的结果：
+这个位置的分词短语没有用逗点隔开，是下面这个定语从句减化的结果：
 
 <u>The teacher</u> [who entered the classroom] <u>greeted</u> <u>the students</u>.
-S 关系从句 V O
+S 定语从句 V O
 
-关系从句（中括弧内的部分）没有用逗点隔开，表示它具有指示功能，关系代词 who 可以改写为 that，整个关系从句用于指出是「走进教室的那位老师」。减化为分词短语 entering the classroom 之后仍然具有同样的指示功能。另外，放在句中位置的分词短语如果有一对逗点和主要从句隔开，有可能是关系从句的减化，也有可能是分词构句（状语从句减化）。不过这两种诠释的意思差不多。例如：
+定语从句（中括弧内的部分）没有用逗点隔开，表示它具有指示功能，关系代词 who 可以改写为 that，整个定语从句用于指出是「走进教室的那位老师」。减化为分词短语 entering the classroom 之后仍然具有同样的指示功能。另外，放在句中位置的分词短语如果有一对逗点和主要从句隔开，有可能是定语从句的减化，也有可能是分词构句（状语从句减化）。不过这两种诠释的意思差不多。例如：
 
 <u>The teacher</u>, [entering the classroom], <u>greeted</u> <u>the students</u>.
 S 减化从句 V O
 (老师走进教室、和学生打招呼。)
 
-句中位置这个分词短语，前后有一对逗点和主要从句隔开。这时候它有可能是不具指示功能的关系从句 who entered the classroom 的减化、修饰先行词 the teacher，也有可能是时间状语从句 when he entered the classroom 减化为分词构句，修饰动词 entered 的时间。不过，这两种诠释的意思差不了太多，虽然稍有模棱两可之嫌但还可以接受。
+句中位置这个分词短语，前后有一对逗点和主要从句隔开。这时候它有可能是不具指示功能的定语从句 who entered the classroom 的减化、修饰先行词 the teacher，也有可能是时间状语从句 when he entered the classroom 减化为分词构句，修饰动词 entered 的时间。不过，这两种诠释的意思差不了太多，虽然稍有模棱两可之嫌但还可以接受。
 
 #### 句尾
 
@@ -706,14 +706,14 @@ V 简化副词字句
 1, That villa <u>being auctioned now</u> used to be a hotel.
 （那栋正在拍卖的别墅本来是旅馆。）
 
-句中 being auctioned now 是个减化关系从句（表语从句），修饰先行词 that villa。还原的方式是把主语（关系词 which）与 be 动词复原，成为关系从句如下：
+句中 being auctioned now 是个减化定语从句（表语从句），修饰先行词 that villa。还原的方式是把主语（关系词 which）与 be 动词复原，成为定语从句如下：
 
 That villa <u>which is being auctioned now</u> used to be a hotel.
 
 2, The museum, <u>being renovated at present</u>, is temporarily closed to visitors.
 （那间博物馆，目前正在翻修，暂停开放。）
 
-句中 being renovated at present 部分有两种可能。第一，它可能是关系从句的减化，修饰先行词 the museum。还原的方式是把主语（关系词 which）与 be 动词复原，成为如下的关系从句：
+句中 being renovated at present 部分有两种可能。第一，它可能是定语从句的减化，修饰先行词 the museum。还原的方式是把主语（关系词 which）与 be 动词复原，成为如下的定语从句：
 
 The museum, <u>which is being renovated at present</u>, is temporarily closed to visitors.
 
@@ -724,7 +724,7 @@ The museum, <u>because it is being renovated at present</u>, is temporarily clos
 3, The museum, <u>having been renovated twice</u>, is much larger and has a modern look to it now.
 （这间博物馆，已经翻修过两次了，现在大得多、而且看起来比较有现代感。）
 
-和第 2 题相同，这个句子里面的减化从句也有两种诠释方式。首先，它可能是关系从句的减化、修饰先行词 the museum，可还原如下：
+和第 2 题相同，这个句子里面的减化从句也有两种诠释方式。首先，它可能是定语从句的减化、修饰先行词 the museum，可还原如下：
 
 The museum, <u>which has been renovated twice</u>, is much larger and has a modern look to it now.
 

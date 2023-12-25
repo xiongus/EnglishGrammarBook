@@ -482,7 +482,7 @@ Today I interviewed for <u>no fewer than four jobs</u>, but didn’t get any def
 There's <u>a dog</u> in his front yard, but it's not <u>the dog</u> I saw last time.
 （他家前院里有条狗，但不是上回我看到的那条。）
 
-前面的 a dog 相当于 one dog，「一条狗」，上下文并无指示是「哪一条」。后面的 the dog 相当于 that dog，因为下文有 I saw last time 这个关系从句指出是我上回看到的「那条」。
+前面的 a dog 相当于 one dog，「一条狗」，上下文并无指示是「哪一条」。后面的 the dog 相当于 that dog，因为下文有 I saw last time 这个定语从句指出是我上回看到的「那条」。
 
 要判断该用不定冠词 a 或 an 还是该用定词词 the，最简单的方法就是分别把 a 或 an 解读为 one「一个」、把 the 解读为 that 或 those「那个或那些」，并从句意中揣摩应该说「一个」还是应该​​说「那个」。例如：
 

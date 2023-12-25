@@ -480,7 +480,7 @@ You can leave early <u>if you have finished the test before the bell rings</u>.
 
 Some buildings that were destroyed in the 921 earthquake were poorly constructed. （不佳）
 
-这个句子可以分成主要从句 some buildings were poorly constructed 与关系从句 that were destroyed in the 921 earthquake。时间副词是 in the 921 earthquake 这个介词短语，它括出一个过去时间的括弧，所以它修饰的关系从句的动词应采用过去一般时 were。但是，主要从句的时间应该不一样：建筑物被毁的时间是在 921 地震中、是过去时间，但是建筑物建造的时间不可能是在 921地震中、应该是在之前才对。因此，主要从句的动词应该采用过去完成时而非过去一般时，如下：
+这个句子可以分成主要从句 some buildings were poorly constructed 与定语从句 that were destroyed in the 921 earthquake。时间副词是 in the 921 earthquake 这个介词短语，它括出一个过去时间的括弧，所以它修饰的定语从句的动词应采用过去一般时 were。但是，主要从句的时间应该不一样：建筑物被毁的时间是在 921 地震中、是过去时间，但是建筑物建造的时间不可能是在 921地震中、应该是在之前才对。因此，主要从句的动词应该采用过去完成时而非过去一般时，如下：
 
 Some buildings that <u>were</u> destroyed <u>in the 921 earthquake</u> <u>had been</u> poorly constructed.
 (921大地震中被毁的房屋，其中有一些当初建造不良。)
@@ -489,7 +489,7 @@ Some buildings that <u>were</u> destroyed <u>in the 921 earthquake</u> <u>had be
 
 ![images chapter_9 2_19](../images/chapter_9/3_1.jpg)
 
-建筑物被毁的时间是 in the 921 earthquake 这个过去时间的括弧内，因此关系从句的动词应采过去一般时 were，后面用过去分词 destroyed 当形容词补语，表达被动语态、表示「被毁」 。主要从句的动词则应采用过去完成时 had been，表示这些建筑物的建造时间是在 in the 921 earthquake 这个截止时间之前。后面用过去分词 constructed 当形容词补语，同样表达被动语态、表示「被建造」。
+建筑物被毁的时间是 in the 921 earthquake 这个过去时间的括弧内，因此定语从句的动词应采过去一般时 were，后面用过去分词 destroyed 当形容词补语，表达被动语态、表示「被毁」 。主要从句的动词则应采用过去完成时 had been，表示这些建筑物的建造时间是在 in the 921 earthquake 这个截止时间之前。后面用过去分词 constructed 当形容词补语，同样表达被动语态、表示「被建造」。
 
 请观察下面这些例子当中的时态一致性：
 
@@ -509,4 +509,4 @@ Under a provision of the law that <u>has never been</u> applied, the President <
 
 ![images chapter_9 2_19](../images/chapter_9/3_3.jpg)
 
-关系从句 that has never been applied 中，频率副词 never 画出了一个以 now 为截止时间的箭头，所以动词应采用现在完成时 has been，后面的过去分词 applied 表达被动语态、当形容词补语看待，解释为「被引用」。主要从句叙述的则是法律条文的规定，属于「事实」的性质，动词应采现在一般时，所以用的是 is，后面用过去分词 required 来表达被动语态，意思是「被要求」，当形容词补语使用。
+定语从句 that has never been applied 中，频率副词 never 画出了一个以 now 为截止时间的箭头，所以动词应采用现在完成时 has been，后面的过去分词 applied 表达被动语态、当形容词补语看待，解释为「被引用」。主要从句叙述的则是法律条文的规定，属于「事实」的性质，动词应采现在一般时，所以用的是 is，后面用过去分词 required 来表达被动语态，意思是「被要求」，当形容词补语使用。

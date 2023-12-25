@@ -106,9 +106,9 @@ Across the street stood the drugstore. Next to the drugstore is a large park. In
 
 这一连串三个句子都是把地方副词移到句首，然后直接把动词倒装到主语前面。这样处理的好处是句子的连贯性较佳：这三个句子采用空间顺序（spatial order）排列，三句全部用地方副词开头适足以呈现出空间顺序，文章发展的逻辑因而表现得更清楚、文章显得更有条理。
 
-### C. 类似 there is/are 构造的关系从句
+### C. 类似 there is/are 构造的定语从句
 
-上述「类似 there is/are 的构造」如果出现在关系从句中，仍然可以采用直接移动动词的方式来倒装。例如：
+上述「类似 there is/are 的构造」如果出现在定语从句中，仍然可以采用直接移动动词的方式来倒装。例如：
 
 The Amazon is <u>a pristine river</u>.
 先行词
@@ -118,17 +118,17 @@ The Amazon is <u>a pristine river</u>.
 S V 地方副词
 (致命的食人鱼在那条河中漫游。)
 
-两句在名词 river 上重复而建立关系，可以把句 2 中的 river 改写为关系代词 which，然后把介词短语 in which 移到句首扮演连词角色，成为关系从句 in which the deadly pirana roam，再将关系从句置于句 1 的先行词 river 之后，就成为下面这个复合句：
+两句在名词 river 上重复而建立关系，可以把句 2 中的 river 改写为关系代词 which，然后把介词短语 in which 移到句首扮演连词角色，成为定语从句 in which the deadly pirana roam，再将定语从句置于句 1 的先行词 river 之后，就成为下面这个复合句：
 
 The amazon is <u>a pristine river</u> [<u>in which</u> <u>the deadly pirana</u> <u>roam</u>].
 先行词 地方副词 S V
 
-观察一下这个关系从句可以发现：地方副词 in which 移到句首之后，只要再把动词 roam 倒装到主语前面，就可以构成类似 there is/are 的倒装句如下：
+观察一下这个定语从句可以发现：地方副词 in which 移到句首之后，只要再把动词 roam 倒装到主语前面，就可以构成类似 there is/are 的倒装句如下：
 
 The amazon is <u>a pristine river</u> [<u>in which</u> <u>roam</u> <u>the deadly pirana</u>].
 先行词 地方副词 V S
 
-如果关系从句的句型不符合 there is/are 的句型，就无法倒装。例如：
+如果定语从句的句型不符合 there is/are 的句型，就无法倒装。例如：
 
 The Amazon is <u>a pristine river</u>.
 先行词
@@ -143,7 +143,7 @@ S V O
 The Amazon is <u>a pristine river</u> [<u>which</u> <u>environmentalists</u> <u>love</u>].
 先行词 O S V
 
-这个关系从句 which environmentalists love 并不符合 there is/are 的句型，所以并不能够倒装。
+这个定语从句 which environmentalists love 并不符合 there is/are 的句型，所以并不能够倒装。
 
 ## II. 助动词或 be 前移
 

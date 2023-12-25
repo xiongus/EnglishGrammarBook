@@ -25,7 +25,7 @@ S V C
 <u>Unit 4</u> <u>is</u> not so <u>long</u>.
 S V C
 
-从某个角度来看，这两个句子的关系有点像关系从句：两句在 long 这个字上有交集而产生关系。但是，真正的关系从句是在名词上建立关系（先行词一定是名词）而改写出来的表语从句。我们现在看到的这两个句子则是在形容词 long 上有重复，要写成一个比较句法的复合句结构，当中的从属从句是个状语从句。
+从某个角度来看，这两个句子的关系有点像定语从句：两句在 long 这个字上有交集而产生关系。但是，真正的定语从句是在名词上建立关系（先行词一定是名词）而改写出来的表语从句。我们现在看到的这两个句子则是在形容词 long 上有重复，要写成一个比较句法的复合句结构，当中的从属从句是个状语从句。
 
 第 1 句和第 2 句在比较的是 long 这个形容词补语，两句之间有「大于」的关系，可以用 longer than 来连接，其中 than 是从属连词，引导状语从句，如下：
 
@@ -81,7 +81,7 @@ S V C
 <u>Unit 3</u> <u>is</u> <u>boring</u>.
 S V C
 
-两句在形容词补语 boring 有交集而产生关系，但是情况不同于关系从句，而是采用 as … as 以比较句法连接，并省略掉重复的比较点 boring，如下：
+两句在形容词补语 boring 有交集而产生关系，但是情况不同于定语从句，而是采用 as … as 以比较句法连接，并省略掉重复的比较点 boring，如下：
 
 Unit 4 is as boring [<u>as</u> <u>Unit 3</u> (<u>is</u>)].
 连词 S V
@@ -99,9 +99,9 @@ Unit 3 is <u>half</u> as difficult as Unit 4.（小于）
 
 ## 准关系代词
 
-如上所述，比较句法因为会有一个重复的比较点，所以很像关系从句。因此比较句法所使用的从属连词（than 与 as）也有人称之为「准关系代词」。
+如上所述，比较句法因为会有一个重复的比较点，所以很像定语从句。因此比较句法所使用的从属连词（than 与 as）也有人称之为「准关系代词」。
 
-当然，准关系代词并非关系代词，比较级的状语从句也并非关系从句。不过，这两种构造确有其类似之处。例如：
+当然，准关系代词并非关系代词，比较级的状语从句也并非定语从句。不过，这两种构造确有其类似之处。例如：
 
 His father left him more money [than <u>he</u> <u>can ever spend</u>].
 S V
@@ -115,7 +115,7 @@ S V O O
 <u>He</u> <u>can spend</u> not so <u>much money</u>.
 S V O
 
-这两个句子在名词 money 上有重复，但并不是要制造关系从句，而是采用比较句法、以 more … than 连接，来做一个「大于」的比较。做法是：将第 1 句中的限定词 much 变成比较级 more，然后外加一个比较级的连词 than 来引导第 2 句、再将第 2 句中重复的比较点（宾语 money）省略，就成为：
+这两个句子在名词 money 上有重复，但并不是要制造定语从句，而是采用比较句法、以 more … than 连接，来做一个「大于」的比较。做法是：将第 1 句中的限定词 much 变成比较级 more，然后外加一个比较级的连词 than 来引导第 2 句、再将第 2 句中重复的比较点（宾语 money）省略，就成为：
 
 His father left him more money [than <u>he</u> <u>can ever spend</u>].
 S V
@@ -126,7 +126,7 @@ This university cannot possibly take in as many students [as <u>meet</u> <u>its 
 V O
 （这家大学不可能把所有符合条件的学生全部招收进来。）
 
-乍看之下，中括号之内好像是个关系从句，as 是关系词、代表先行词 students、并且扮演关系从句主语的角色，动词是 meet、宾语是 its requirements。不过这样的诠释是错误的。这个句子可以拆开成为下面两句来理解：
+乍看之下，中括号之内好像是个定语从句，as 是关系词、代表先行词 students、并且扮演定语从句主语的角色，动词是 meet、宾语是 its requirements。不过这样的诠释是错误的。这个句子可以拆开成为下面两句来理解：
 
 <u>This university</u> <u>cannot possibly take in</u> <u>many students</u>.
 S V O
@@ -213,7 +213,7 @@ Of all my students, John studies <u>(the) hardest</u>.
 
 <u>Prices of papayas in Thailand are much lower</u> than <u>prices of papayas in England are</u>.
 
-先忽略原句当中两个插入的关系从句、再把省略掉的部分还原，结果就是上面这个句子。接下来再看看有哪些地方可以省略。首先，句尾的 are 是状语从句的动词，和主要从句的动词相同。比较句法在这方面很类似对等从句，可以选择省略掉重复的动词，成为：
+先忽略原句当中两个插入的定语从句、再把省略掉的部分还原，结果就是上面这个句子。接下来再看看有哪些地方可以省略。首先，句尾的 are 是状语从句的动词，和主要从句的动词相同。比较句法在这方面很类似对等从句，可以选择省略掉重复的动词，成为：
 
 <u>Prices of papayas in Thailand are much lower</u> than <u>prices of papayas in England</u>.
 
@@ -386,7 +386,7 @@ S V C
 
 <u>Manual laborers are more strongly opposed to immigrants</u> than <u>white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country, <u>are</u>.
 
-但是细看一下这个句子，会发现从属从句中主语 white-collar workers 和动词 are 之间隔了一个很长的关系从句。主语和动词的距离太远会造成意思不清楚。而且，动词 are 是个系动词，它后面的补语 opposed to immigrants 省略掉之后，等于是借用主要从句中同样的一个补语。把 are 一个字远远抛在后面，和主语与补语之间都有颇长的距离，这是很不清楚的讲法。可是我们前面分析过，这个are又不能省略，否则会出现模棱两可的结果。碰到这种棘手的情况，最好的解决办法就是倒装：
+但是细看一下这个句子，会发现从属从句中主语 white-collar workers 和动词 are 之间隔了一个很长的定语从句。主语和动词的距离太远会造成意思不清楚。而且，动词 are 是个系动词，它后面的补语 opposed to immigrants 省略掉之后，等于是借用主要从句中同样的一个补语。把 are 一个字远远抛在后面，和主语与补语之间都有颇长的距离，这是很不清楚的讲法。可是我们前面分析过，这个are又不能省略，否则会出现模棱两可的结果。碰到这种棘手的情况，最好的解决办法就是倒装：
 
 <u>Manual laborers are more strongly opposed to immigrants</u> than <u>are white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country.
 

@@ -509,7 +509,7 @@ I love to <u>read</u> <u>books</u> <u>with pictures in my leisure time</u>.
 
 The secretary <u>had to retype</u> the letter which she <u>had been working on</u> <u>under the order of the manager</u>. （不佳）
 
-这个句子写得不好，因为介词短语 under the order of the manager 放的位置既是全句的句尾、又是关系从句的句尾，所以它可以修饰主要从句的动词 had to retype 、也可以修饰关系从句的动词 had been working on，造成模棱两可的结果。可以分别修改如下：
+这个句子写得不好，因为介词短语 under the order of the manager 放的位置既是全句的句尾、又是定语从句的句尾，所以它可以修饰主要从句的动词 had to retype 、也可以修饰定语从句的动词 had been working on，造成模棱两可的结果。可以分别修改如下：
 
 <u>Under the order of the manager</u>, the secretary <u>had to retype</u> the letter which she had been working on.
 (在经理命令之下，秘书不得不重打那封她一直在处理的信件。)

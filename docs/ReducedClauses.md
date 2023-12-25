@@ -91,10 +91,10 @@ S V O 减化名词从句
 ### 3\. 普通动词加 -ing
 
 <u>The</u> <u>runner</u> [who finished second] won a small prize. 
-S V O 关系从句
+S V O 定语从句
  (跑第二名的选手赢得一笔小额奖金。)
  
-关系从句 who finished second 修饰先行词 the runner。关系从句的主语 who 和先行词重复，因而有可以减化的空间。减化的做法是省略掉关系从句主语 who，然后把关系从句的动词减化为非限定动词。因为这个动词（finished）里面没有 be 动词也没有语气助动词，所以可以先这样修改：把 who finished second 改写为 who was finishing second。这样做的目的并不是要改成进行时，而是为了做词类变化：把限定动词 finished 改为现在分词 finishing、成为主语补语保留下来，动词变成无意义的 was 可以连同重复的主语 who 一并省略，关系从句 who finished second 就可以减化为现在分词词组 finishing second，整个句子减化如下：
+定语从句 who finished second 修饰先行词 the runner。定语从句的主语 who 和先行词重复，因而有可以减化的空间。减化的做法是省略掉定语从句主语 who，然后把定语从句的动词减化为非限定动词。因为这个动词（finished）里面没有 be 动词也没有语气助动词，所以可以先这样修改：把 who finished second 改写为 who was finishing second。这样做的目的并不是要改成进行时，而是为了做词类变化：把限定动词 finished 改为现在分词 finishing、成为主语补语保留下来，动词变成无意义的 was 可以连同重复的主语 who 一并省略，定语从句 who finished second 就可以减化为现在分词词组 finishing second，整个句子减化如下：
 
 <u>The</u> <u>runner</u> [finishing second] won a small prize.  
 
@@ -102,4 +102,4 @@ S V O 关系从句
 
 从属从句减化之后，因为不再有限定从句了，所以也就不再需要有连词。因此，无意义的连词如名词从句外加的 that、以及重复的连词如关系词，在减化从句中都不会留下来。至于疑问句改写而来的名词从句，减化之后原来的疑问词是有意义的连词，会保留下在减化从句中。还有就是状语从句外加的连词都有意义，在状语从句减化之后如果有需要，可以选择把连词留下来以保留字意。反之，如果意思够清楚，状语从句原来的连词在减化从句中也可以省略。
 
-以上是从属从句减化的一些共通原则。接下来的章节分成关系从句减化、名词从句减化、状语从句减化等分别处理。
+以上是从属从句减化的一些共通原则。接下来的章节分成定语从句减化、名词从句减化、状语从句减化等分别处理。

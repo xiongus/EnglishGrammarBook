@@ -363,7 +363,7 @@ S 名词从句 V C
 主要从句的主语是名词从句 what he hopes（中括弧内的部分）。这个名词从句本身的主语是复合关系代词 what，可以拆开成为先行词 the thing 与关系代词 that。主要从句的补语部分是个不定式短语（to win First Place in the competition），可以视为名词从句 that he can win First Place in the competition 的减化。整个句子可以把省略与减化的部分还原如下：
 
 <u>The thing</u> [that he hopes] <u>is</u> [that he can win First Place in the competition].
-S 关系从句 V C 名词从句
+S 定语从句 V C 名词从句
 
 名词从句（第二个中括弧内）的减化方式是省略掉重复的主语 he、助动词 can 减化为表示不定式的 to。
 
@@ -376,9 +376,9 @@ S V O O
 如果要强调的是动词部分（asked），可以改写为分裂句如下：
 
 <u>All</u> [(that) I did] <u>was</u> <u>(to) ask him a simple question</u>.
-S 关系从句 V C
+S 定语从句 V C
 
-这个分裂句采用笼统的 all 当主要从句主语，后面用关系从句 that I did 修饰它。主要从句的动词是 was，后面采用不定式短语（to ask）或原形动词（ask）当主语补语。要能够采用原形动词当主语补语，先决条件是主要从句主语部分的修饰语有包括助动词 do 在内。再看一个例子：
+这个分裂句采用笼统的 all 当主要从句主语，后面用定语从句 that I did 修饰它。主要从句的动词是 was，后面采用不定式短语（to ask）或原形动词（ask）当主语补语。要能够采用原形动词当主语补语，先决条件是主要从句主语部分的修饰语有包括助动词 do 在内。再看一个例子：
 
 <u>The only thing</u> left to do <u>is</u> <u>(to) admit failure openly</u>.
 S V C
@@ -454,9 +454,9 @@ S V O O 减化名词从句
 另外，what 也可以视为复合关系代词，由先行词 the thing 加上关系代词 that 合并而成。由此出发，可以先还原如下：
 
 <u>I</u>’<u>ll tell</u> <u>you</u> <u>the thing</u> [that you should do].
-S V O O 关系从句
+S V O O 定语从句
 
-这个关系从句的减化，首先是把扮演宾语角色的关系代词 that 省略。然后再省略掉重复的主语 you、语气助动词 should 减化为表示不定式的 to，如下：
+这个定语从句的减化，首先是把扮演宾语角色的关系代词 that 省略。然后再省略掉重复的主语 you、语气助动词 should 减化为表示不定式的 to，如下：
 
 <u>I</u>’<u>ll tell</u> <u>you</u> <u>the thing</u> [to do].
 S V O O 减化表语从句

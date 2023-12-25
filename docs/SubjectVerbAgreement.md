@@ -401,7 +401,7 @@ Not only A but also B 当主语时，动词应该和接近的那个主语一致�
 
 可以先还原为 My friends are against the plan 和 I am against the plan 这两个单句，然后用 not only … but also 连接起来成为对等从句。接下来省略掉前面重复的部分（are against the plan），结果就是上面那个句子。
 
-除了上述这些并列连词之外，主语的单复数有时候要从句型来研判。值得注意的句型有比较级、关系从句，以及分裂句。
+除了上述这些并列连词之外，主语的单复数有时候要从句型来研判。值得注意的句型有比较级、定语从句，以及分裂句。
 
 ## 比较级
 
@@ -467,13 +467,13 @@ The numerous stories behind it have fascinated viewers for ages <u>no less than 
 
 ## 分裂句
 
-分裂句是一种强调语气的句型（见第十九章）。标准的分裂句以 it is … that … 的句型呈现，当中主要从句的主语 it 是个虚字，它的动词必须采单数形。后面的 that 从句是个关系从句，如果从句的主语是关系代词，从句的动词就要视先行词的单复数而定。例如：
+分裂句是一种强调语气的句型（见第十九章）。标准的分裂句以 it is … that … 的句型呈现，当中主要从句的主语 it 是个虚字，它的动词必须采单数形。后面的 that 从句是个定语从句，如果从句的主语是关系代词，从句的动词就要视先行词的单复数而定。例如：
 
 <u>It</u> <u>is</u> <u>those friends of yours</u> [<u>that are</u> to blame for the accident].
-S V C 关系从句
+S V C 定语从句
 (是你那些朋友该为这次意外负责。)
 
-这个分裂句来自于单句 Those friends of yours are to blame for the accident，将单句的主语 those friends of yours 拿出来放在分裂句的补语位置以强调语气。分裂句当中，主要从句的主语是虚字 it，动词必须采用单数（如 is）。后面的关系从句，主语就是关系代词 that（亦可作 who）。它的先行词是复数的 those friends of yours，因此它的动词应采复数形（如 are）。
+这个分裂句来自于单句 Those friends of yours are to blame for the accident，将单句的主语 those friends of yours 拿出来放在分裂句的补语位置以强调语气。分裂句当中，主要从句的主语是虚字 it，动词必须采用单数（如 is）。后面的定语从句，主语就是关系代词 that（亦可作 who）。它的先行词是复数的 those friends of yours，因此它的动词应采复数形（如 are）。
 
 ## 动名词，不定式短语，名词从句
 

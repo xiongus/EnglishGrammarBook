@@ -24,11 +24,11 @@
   * [第十六章 合句](docs/CompoundSentences.md)
   * [第十七章 名词从句](docs/NounClauses.md)
   * [第十八章 状语从句](docs/AdverbClauses.md)
-  * [第十九章 关系从句](docs/RelativeClauses.md)
+  * [第十九章 定语从句](docs/RelativeClauses.md)
   * [第二十章 主语动词一致性](docs/SubjectVerbAgreement.md)
   * [第二十一章 倒装句](docs/Inversion.md)
   * [第二十二章 减化从句](docs/ReducedClauses.md)
-  * [第二十三章 关系从句减化](docs/RelativeClausesReduced.md)
+  * [第二十三章 定语从句减化](docs/RelativeClausesReduced.md)
   * [第二十四章 名词从句减化](docs/NounClausesReduced.md)
   * [第二十五章 状语从句减化](docs/AdverbClausesReduced.md)
 
