@@ -249,7 +249,7 @@ Sales have increased 20%; <u>besides</u>, production cost has come down.
 
 这句话和上一句之间有相反关系，用 however 这个连接副词表示，意思类似并列连词 but。但是 however 并非真正的连词，不能用它来连接两个从句，所以同样选择用句点和上一句断开、成为两句话。
 
-两个完整的句子之间没有连词、却直接打个逗点就连在一起,这是写作时最常犯的错误之一:
+两个完整的句子之间没有连词、却直接打个逗号就连在一起,这是写作时最常犯的错误之一:
 
 He is short, however, he plays basketball well. (误)
 (他个子不高,篮球却打得很好。)

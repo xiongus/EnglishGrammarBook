@@ -1,18 +1,18 @@
 # 第十九章 定语从句 
 
-定语从句用于修饰先行词（通常是名词或名词短语），提供额外的信息。关系代词（如 who, whom, whose, which, that）或关系副词（如 when, where, why）引导定语从句。
-
-## 定语从句的构造
-
 名词从句和状语从句的连词都是外加的：陈述句改造成名词从句要外加一个没有意义的连词 that，状语从句则要外加一个有意义、表达逻辑关系的连词如 because 之类。
 
 定语从句的构造和这两种从句都有很大的不同：定语从句并没有外加连词，而是将一个内含的重复元素改写为关系词。
 
-要制造定语从句有一个前提：这个从句和主要从句之间必须要「有关系」，也就是两个从句之间必须要有一个重复的元素产生关系、在这个重复点上改写为关系词，才能够制造出定语从句。
+（这篇文章将定语从句和表语从句挂钩）
 
-两个句子之间如果没有任何交集、没有关系，就无法写成定语从句。
+## 一、定语从句的构造
 
-这个交集点，在主要从句中称为**先行词（antecedent）**。在定语从句中则可能是代词改写为关系代词、也可能是副词改写为关系副词。
+制造定语从句有一个前提：两个从句之间必须要有一个重复的元素、在这个重复点上改写为关系词，才能够制造出定语从句。
+
+两个句子之间如果没有任何交集、没有关系，就无法写成定语从句。 这个交集点，在主要从句中称为**先行词（antecedent）**。
+
+在定语从句中则可能是代词改写为关系代词、也可能是副词改写为关系副词。
 
 主要从句中的先行词一定是名词类。而在从属从句中，不论用的是关系代词还是关系副词，它所引导的定语从句一定是表语从句、用来修饰先行词。先看一个例子：
 
@@ -37,13 +37,13 @@ Nobody else knows <u>it</u>.
 
 反之，主要从句中的先行词如果是「事、物」，那么定语从句中与其重复而建立关系的元素应该是同样的名词、或者是代词 it, they 之类，这些代词改写为关系代词就是 which（单复数拼法相同，宾格仍是 which、所有格借用 whose）。
 
-另外，不论先行词是人还是物，定语从句只要具有「指示」功能（指出「哪一个、哪一些」），那么关系代词（who, whom 或 which）都可以采用由指示代词衍生出来的 that 来取代。以下分别说明。
+另外，不论先行词是人还是物，定语从句只要具有「指示」功能（例如 哪一个、哪一些），那么关系代词（who, whom 或 which）都可以采用由指示代词衍生出来的 that 来取代。以下分别说明。
 
-### Who的用法（包括whom, whose, that）
+### I、Who的用法（包括whom, whose, that）
 
 如果主要从句中的先行词是「人」，那么从属从句中的交集点改写为关系词时应该采用 who 这一类。以下依表示「人」的关系代词在定语从句中出现的几种位置分别说明。
 
-#### 主语位置
+#### 1、主语位置
 
 >People <u>who live in glass houses</u> shouldn't throw stones.
 (住在玻璃屋里的人不该乱扔石头。)
@@ -56,7 +56,9 @@ S V
 
 第 2 句中的主语 they 就是第1句中的 people, 由此产生交集而建立关系,可以把代词 they 改写为关系代词 who,制造出定语从句 who live in glass houses 成为一个表语从句、放在先行词 people 后面修饰它,结果就是前面那个复合句。
 
-关系词是和先行词重复的元素。如果从修辞的角度来考量,只要是重复都有可能是累赘,应该尽量精简。所以,关系词经常会被省略掉以避免重复。以关系代词而言,能不能省略要看省略之后的句子是否够清楚而定。如果会造成不清楚,就不能省略关系代词。
+关系词是和先行词重复的元素。如果从修辞的角度来考量,只要是重复都有可能是累赘,应该尽量精简。所以,关系词经常会被省略掉以避免重复。
+
+以关系代词而言,能不能省略要看省略之后的句子是否够清楚而定。如果会造成不清楚,就不能省略关系代词。
 
 拿上面那个例子来说, 关系代词 who 在定语从句中扮演主语的角色,如果省略掉它,结果如下:
 
@@ -64,11 +66,11 @@ S V
 
 这个句子,读者看不出来有省略掉关系词 who,看到的印象是 people 是主语、live 是动词,后面又有第二个动词 shouldn’t throw,因而是个错误的句子。所以: 关系代词在定语从句中当主语使用时不能省略。
 
-另外,在 People who live in glass houses shouldn't throw stones 这个复合句中,定语从句 who live in glass houses 具有指示功能(指出是「哪一种」人), 所以关系代词 who 也可以改写为来自指示代词的 that (表示「那种」),如下:
+另外,在 People who live in glass houses shouldn't throw stones 这个复合句中,定语从句 who live in glass houses 具有指示功能(指出是「哪一种」人), 所以关系代词 who 可以改写为指示代词 that (表示「那种」),如下:
 
 >People <u>that</u> live in glass houses shouldn’t throw stones.
 
-#### 宾语位置
+#### 2、宾语位置
 
 代表「人」的关系代词，主格是 who、宾格是 whom。但是大部分情况下都可以选择忽略主格宾格的差别、一律采用 who 来表示。只有在关系代词直接放在介词后面的时候（如 to whom, with whom 之类）才必须采用宾格 whom，因为这个位置是非常明显的宾语位置，这一点在下文将有进一步的分析。现在先来看看关系代词的省略问题。
 
@@ -76,174 +78,177 @@ S V
 
 关系代词在定语从句中如果扮演宾语的角色，必须先移到句首让它发挥连词的功能。这时候，虽然它仍是宾语，但是已经脱离了原来的宾语位置，可以自由选择拼成 who 或 whom。亦即：关系代词虽然是在定语从句中当宾语使用，但是拼成主格的 who 与宾格的 whom 都正确。只有一种情况必须拼成宾格的 whom：整个介词短语（如 with whom, to whom 等）一起移到句首时。关系代词 whom 直接置于介系​​词后面当宾语，整个介词短语移到句首之后关系词还是放在宾语位置，这时候就必须采用宾格 whom。反之，如果把介词短语拆开，只移动关系代词到句首、介词留在句尾，这时候拼成主格的 who 与宾格的 whom 都可以。例如：
 
-Jack is <u>a man</u>.
+>>Jack is <u>a man</u>.
 （Jack是个人。）
 
-<u>I</u> <u>trust</u> <u>the man</u> completely.
+>><u>I</u> <u>trust</u> <u>the man</u> completely.
 S V O
 （我完全信赖这个人。）
 
 这两个句子在名词 man 产生交集而建立关系。第 2 句中的 the man 是动词 trust 的宾语，如果改成普通代词的话应该是宾格的 him，再改成关系代词就是 whom。接下来必须把 whom 移到句首成为定语从句 whom I trust completely、放在第 1 句的先行词 a man 后面当表语从句来修饰它，结果就成为这个复合句：
 
-(A) Jack is <u>a man</u> [<u>whom</u> <u>I</u> <u>trust</u> completely].
+>>(A) Jack is <u>a man</u> [<u>whom</u> <u>I</u> <u>trust</u> completely].
 先行词 O S V
 
 中括弧内是定语从句，请注意关系代词的部分。它虽然是宾语，但是脱离宾语位置、移到句首之后，就可以选择忽略宾格、拼成 who，所以也可以这样说：
 
-Jack is a man <u>who</u> I trust completely.
+>>Jack is a man <u>who</u> I trust completely.
 
 另外，这个定语从句具有指示功能、指出先行词是「哪一种」人，所以关系代词也可以用来自指示代词的 that 来取代，如下：
 
-Jack is a man <u>that</u> I trust completely.
+>>Jack is a man <u>that</u> I trust completely.
 
 最后，关系代词 who、whom 或 that 在定语从句内扮演宾语的角色，如果选择把它省略掉以避免重复，句子仍然够清楚，如下：
 
-Jack is a man I trust completely.
+>>Jack is a man I trust completely.
 
-读者仍然看得出来 Jack is a man 是主要从句、后面的 I trust completely 是定语从句，所以这仍然是个正确的句子。因此，关系代词在定语从句中扮演宾语角色时可以选择省略（前提是这个定语从句不能放在括弧式的逗点内，这点将在下文说明）。
+读者仍然看得出来 Jack is a man 是主要从句、后面的 I trust completely 是定语从句，所以这仍然是个正确的句子。因此，关系代词在定语从句中扮演宾语角色时可以选择省略（前提是这个定语从句不能放在括弧式的逗号内，这点将在下文说明）。
 
-#### 介词的宾语位置
+#### 3、介词的宾语位置
 
-Jack is <u>a man</u>.
+>>Jack is <u>a man</u>.
 You should talk <u>to him</u>.
 介词短语
 （你应该和此人谈谈。）
 
 第 2 句中的代词 him 现在是介词 in 的宾语。把它改写成关系代词，应该采用宾格 whom。如果选择把介词短语拆开、只把关系代词 whom 移到句首，结果就是底下这个复合句：
 
-Jack is a man [<u>whom</u> you should talk <u>to</u>].
+>>Jack is a man [<u>whom</u> you should talk <u>to</u>].
 宾语 介词
 
 因为介词短语被拆开来、关系代词 whom 脱离了介词后面的宾语位置，所以也可以选择拼成 who 的主格，如下：
 
-Jack is a man <u>who</u> you should talk to.
+>Jack is a man <u>who</u> you should talk to.
 
 这个关系代词在定语从句中扮演宾语的角色，可以选择把它省略掉。另外，因为这个定语从句具有指示功能、指出先行词是「哪一种」人，所以关系代词也可以采用that来取代，如下：
 
-Jack is a man you should talk to.
-Jack is a man <u>that</u> you should talk to.
+>Jack is a man you should talk to.
+
+>Jack is a man <u>that</u> you should talk to.
 
 还有一种做法：如果选择不拆开、而是把整个介词短语一起移到句首，就会成为下面这个复合句：
 
-Jack is a man [<u>to whom</u> you should talk].
+>Jack is a man [<u>to whom</u> you should talk].
 介词短语
 
 只有在这种情况，whom 仍然置于明显的宾语位置，才有必要采用宾格。而且，这种情况既不能省略 whom、也不能改成 that，所以没有什么别的变化。
 
-#### 补语位置
+#### 4、补语位置
 
-After the stroke, John is not <u>the man</u> <u>who he used to be</u>.
+>After the stroke, John is not <u>the man</u> <u>who he used to be</u>.
 先行词 定语从句
 （中风之后，John 的情况比从前差多了。）
 
 字面上是「John 不再是从前那个男人了」。这个复合句可以拆开为下面这两句来理解：
 
-After the stroke, John is not <u>the man</u>.
+>After the stroke, John is not <u>the man</u>.
 <u>He</u> <u>used to be</u> <u>the man</u>.
 S V C
 
 第 2 句中的 the man 和第 1 句重复。如果是用普通的人称代词来避免重复，应该采用主格的 he，因为 the man 在第 2 句中是当主语补语使用而不是宾语，因此是主格而非宾格。再由he改写为关系代词，当然也是主格（who），所以正确的定语从句是 who he used to be。关系代词 who 虽然是补语，但是省略掉它之后两个从句仍然可以区分清楚，所以也可以选择省略 who。另外，定语从句 who he used to be 具有指出「哪一种人」的指示功能，因此关系代词也可以改写为 that，如下：
 
-After the stroke, Joh is not the man he used to be.
-After the stroke, Joh is not the man that he used to be.
+>After the stroke, Joh is not the man he used to be.
 
-#### 所有格
+>After the stroke, Joh is not the man that he used to be.
+
+#### 5、所有格
 
 如果先行词是人、从属从句中与其交集的是人称代词的所有格（如 his, her, their 之类），那么改写成关系代词就是 whose，例如：
 
-Jack is <u>a man</u>.
+>Jack is <u>a man</u>.
 先行词
 
-<u>I</u> <u>trust</u> <u>his judgment</u>.
+><u>I</u> <u>trust</u> <u>his judgment</u>.
 S V O
 （我信赖他的判断。）
 
 第 2 句是以所有格 his 和第 1 句中的先行词 a man 产生交集建立关系，改写成关系代词的话就是 whose，如下：
 
-Jack is <u>a man</u> <u>whose judgment I trust</u>.
+>Jack is <u>a man</u> <u>whose judgment I trust</u>.
 先行词 定语从句
 
 所有格的关系代词 whose 无法改写为其他形式、也不能省略。
 
-### Which的用法（包括that）
+### II、Which的用法（包括that）
 
-如果先行词是「物」，关系代词应该采用 which（改写自人称代词 it 或 they）。它引导的定语从句如果具有指示功能（定语从句前后没有用一对逗点隔开），那么这个关系代词也可以改写为来自指示代词的 that。以下就关系代词 which 用在定语从句中的几种位置分别举例说明。
+如果先行词是「物」，关系代词应该采用 which（改写自人称代词 it 或 they）。它引导的定语从句如果具有指示功能（定语从句前后没有用一对逗号隔开），那么这个关系代词也可以改写为来自指示代词的 that。以下就关系代词 which 用在定语从句中的几种位置分别举例说明。
 
-#### 主语位置
+#### 1、主语位置
 
-I like <u>movies</u>.
+>I like <u>movies</u>.
 先行词
 
-<u>The movies</u> <u>make</u> <u>me</u> <u>think</u>.
+><u>The movies</u> <u>make</u> <u>me</u> <u>think</u>.
 S V O C
 
 两句因为 movies 的重复而建立关系，可以选择制造定语从句来连接。做法是把第 2 句中的重复点 the movies 改写为关系代词 which，成为 which make me think 这个定语从句，置于第 1 句的先行词 movies 之后，结果就是：
 
-I like <u>movies</u> <u>which make me think</u>.
+>I like <u>movies</u> <u>which make me think</u>.
 先行词 定语从句
 我喜欢看会令我思考的电影。
 
 这个复合句中的定语从句因为具有指出「哪种」电影的功能，所以关系代词也可以借用指示性的 that，如下：
 
-I like movies <u>that</u> make me think.
+>I like movies <u>that</u> make me think.
 
 关系代词 who, which, that 并无单复数的拼法差别。本句中的先行词 movies 是复数，那么关系代词 which 或 that 就是复数，后面必须用复数的动词如 make。另外，关系代词当主语使用时不得省略。
 
-#### 宾语位置
+#### 2、宾语位置
 
-<u>The movie</u> was excellent.
+><u>The movie</u> was excellent.
 先行词
 
-<u>I</u> <u>saw</u> <u>the movie</u> last night.
+><u>I</u> <u>saw</u> <u>the movie</u> last night.
 S V O
 
 两句因 the movie 的重复而建立关系，可以制造定语从句来连接。做法是把句 2 的重复点改写为关系代词 which、移到句首充当连词，成为 which I saw last night 这个定语从句，然后把定语从句置于句1的先行词 the movie 之后，成为下面这个复合句：
 
-<u>The movie</u> <u>which I saw last night</u> was excellent.
+><u>The movie</u> <u>which I saw last night</u> was excellent.
 S 定语从句
 （我昨晚看的那部电影好极了。）
 
 这个复合句中的定语从句有指出「哪一部」电影的功能，因此关系代词可以改写为 that。另外，关系代词 which 或 that 在定语从句中当宾语使用，所以也可以省略，如下：
 
-The movie <u>that</u> I saw last night was excellent.
+>The movie <u>that</u> I saw last night was excellent.
 The movie I saw last night was excellent.
 
-#### 介词的宾语位置
+#### 3、介词的宾语位置
 
-My favorite movies are <u>these</u>.
+>My favorite movies are <u>these</u>.
 
-<u>All ends</u> well <u>in those movies</u>.
+><u>All ends</u> well <u>in those movies</u>.
 S V 介词短语
 
 句 1 中的 those 代表的就是 those movies (省略掉名词 movies),和句 2 中的 those movies 重复而建立关系,可以制造定语从句来连接。做法是把句 2 中的重复点 those movies 改写为关系代词 which,然后把整个介词短语 in which 移到句首充当连词,成为定语从句 in which all ends well, 再把这个定语从句放在句 1 的先行词 those 后面当形容词使用,成为下面这个复合句:
 
-My favorite movies are <u>those</u> <u>in which all ends well</u>.
+>My favorite movies are <u>those</u> <u>in which all ends well</u>.
 先行词 定语从句
 (我最喜欢的电影是最后皆大欢喜的那种。)
 
 句中的介词短语 in which 不适宜拆开,所以也就没有进一步的变化可言。另外看一个可以拆开的例子:
 
-<u>That chair</u> is an antique.
+><u>That chair</u> is an antique.
 先行词
 
-<u>You</u> <u>are</u> <u>sitting</u> <u>on that chair</u>.
+><u>You</u> <u>are</u> <u>sitting</u> <u>on that chair</u>.
 S V C 介词短语
 
 两个句子在 that chair 上重复而建立关系,可以把句 2 中的 that chair 改写为关系代词 which,制造定语从句。这个关系代词 which 是介词 on 的宾语,可以选择把整个介词短语移到句首充当连词、也可以把介词短语拆开而只移动关系代词 which,就会产生两种不同的结果:
 
-<u>That chair</u> <u>on which you are sitting</u> is an antique.
+><u>That chair</u> <u>on which you are sitting</u> is an antique.
 先行词 定语从句
 
-<u>That chair</u> <u>which you are sitting on</u> is an antique.
+><u>That chair</u> <u>which you are sitting on</u> is an antique.
 先行词 定语从句
 (你现在坐的那张椅子是古董。)
 
 如果是句 1, on which 连在一起,就不会有进一步的变化可言。如果是句 2,把介词 on 留在句尾、关系代词 which 移到句首,则可以选择把当宾语使用的 which 省略掉。另外,因为这个定语从句具有指示功能(指出是「哪张」椅子),所以也可以借用来自指示代词的 that。因此,句 2 可以进一步变化如下:
 
-That chair you’re sitting on is an antique.
-That chair <u>that</u> you’re sitting on is an antique.
+>That chair you’re sitting on is an antique.
 
-#### 补语位置
+>That chair <u>that</u> you’re sitting on is an antique.
+
+#### 4、补语位置
 
 <u>The name</u> is a rea​​lly odd one.
 先行词
@@ -262,7 +267,7 @@ S V O C
 The name <u>that</u> John calls his dog is a rea​​lly odd one.
 The name John calls his dog is a rea​​lly odd one.
 
-#### 所有格
+#### 5、所有格
 
 代表「物」的关系代词 which 并无主格宾格之分，这一点比较方便。但是，which 也缺乏所有格，这一点就比较麻烦了。 Which 本身缺乏所有格，它的所有格有两种变通的表示方式：一是借用 who 的所有格 whose、一是采用无生物的所有格方式 of which 来表示，例如：
 
@@ -290,7 +295,7 @@ I saw <u>a mountain</u> <u>the top of which was completely covered in snow</u>.
 
 I saw <u>a mountain</u> <u>of which the top was completely covered in snow</u>.
 
-### Which 为限定词
+### III、Which 为限定词
 
 关系代词which有时候扮演的是限定词的角色，代表this或that。例如：
 
@@ -311,7 +316,7 @@ You can marry any daughter of mine you like.
 
 #### 主要从句为先行词
 
-定语从句如果以逗点和主要从句隔开、并且采用关系代词 which，那么这个关系代词的先行词有可能是前面整个主要从句。这种状况在写作时很容易产生出模棱两可的句子，是必须小心避免的一个陷阱，应该要注意交代清楚。例如：
+定语从句如果以逗号和主要从句隔开、并且采用关系代词 which，那么这个关系代词的先行词有可能是前面整个主要从句。这种状况在写作时很容易产生出模棱两可的句子，是必须小心避免的一个陷阱，应该要注意交代清楚。例如：
 
 <u>The whole house was overrun with ants</u>, <u>which was</u> rather weird.
 （整个房子爬满了蚂蚁，这件事情有点怪异。）
@@ -343,7 +348,7 @@ The whole house was overrun with ants, <u>nasty insects</u> which frightened the
 
 上文说到定语从句具有「指示功能」，那就是一般语法书所谓的**限制用法（restrictive usage）**。因为限制用法和**限定从句（finite clause）**这两个名称太接近、很容易混淆，所以我们换个比较容易理解的名称来说明这个观念。
 
-定语从句如果具有指出「哪一个」的功能，我们称为具有指示功能。如果定语从句具有指示功能，关系代词 who 或 which 才能够借用来自于指示代词的 that。反之，如果定语从句并不具有指出「哪一个」的功能，而只是个可有可无的补充说明，即一般语法书所谓的**非限制用法（nonrestrictive usage）**，那么这个定语从句通常要在前后加上一对逗点（也有可能是前面加逗点、后面刚好碰上句尾的句点之类）。这一对逗点可以视为一对括弧看待。定语从句放在括弧里面，表示这个定语从句不重要、只是个可有可无的补充说明，同时也表示这个定语从句不具有指示功能。不具有指示功能的定语从句，关系代词只能用 who 或 which，不能改为 that、而且也不能省略。例如：
+定语从句如果具有指出「哪一个」的功能，我们称为具有指示功能。如果定语从句具有指示功能，关系代词 who 或 which 才能够借用来自于指示代词的 that。反之，如果定语从句并不具有指出「哪一个」的功能，而只是个可有可无的补充说明，即一般语法书所谓的**非限制用法（nonrestrictive usage）**，那么这个定语从句通常要在前后加上一对逗号（也有可能是前面加逗号、后面刚好碰上句尾的句点之类）。这一对逗号可以视为一对括弧看待。定语从句放在括弧里面，表示这个定语从句不重要、只是个可有可无的补充说明，同时也表示这个定语从句不具有指示功能。不具有指示功能的定语从句，关系代词只能用 who 或 which，不能改为 that、而且也不能省略。例如：
 
 I met <u>a friend</u> <u>who(that) went to the same high school with me</u>.
 先行词 定语从句
@@ -353,48 +358,48 @@ I met <u>Jack Wang</u>, <u>who went to the same high school with me</u>.
 先行词 定语从句
 （我碰到 Jack 王，他是我从前的高中同学。）
 
-定语从句有没有指示性，最明显的线索是看它是否放在括弧中（一对逗点中）。放在括弧里（前后打了逗点）的东西不重要、只是补充说明，没有指示的功能。反之，具有指示功能的定语从句是个重要条件、不能放在括弧内，也就是在定语从句前后不能打一对逗点。
+定语从句有没有指示性，最明显的线索是看它是否放在括弧中（一对逗号中）。放在括弧里（前后打了逗号）的东西不重要、只是补充说明，没有指示的功能。反之，具有指示功能的定语从句是个重要条件、不能放在括弧内，也就是在定语从句前后不能打一对逗号。
 
-看看上面第 1 句，定语从句 who went to the same high school with me 并没有用逗点隔开，表示它是一个重要条件、具有指出「哪一个」friend 的功能：「和我上同一所高中的那个」。定语从句具有指出「哪一个」的功能，关系代词才能改为 that（意思就是「那个」）。
+看看上面第 1 句，定语从句 who went to the same high school with me 并没有用逗号隔开，表示它是一个重要条件、具有指出「哪一个」friend 的功能：「和我上同一所高中的那个」。定语从句具有指出「哪一个」的功能，关系代词才能改为 that（意思就是「那个」）。
 
 接下来看看第 2 句，可以发现有几个地方不同。首先，主要从句中的先行词 Jack Wang 是人名，属于专有名词。专有名词这个概念我们在「名词短语」那一章探讨过：它是「特称」，一个专有名词只能对应单一的对象，所以不能说「这个、那个」──因为总共就只有一个。这是专有名词不能加定冠词the的原因。基于同样原因，专有名词当先行词时，后面的定语从句也并不具有指示功能，只是个可有可无的补充说明。
 
-这就要看到第 2 句的另一个不同点了：第 2 句中那个定语从句和先行词 Jack Wang 之间有逗点隔开。这个逗点和句尾的句点共同构成一对括弧、把当作补充说明使用的定语从句放在括弧内。既然这种定语从句不具有指示功能，关系代词就只能用 who 而不能改写为来自指示代词的 that。
+这就要看到第 2 句的另一个不同点了：第 2 句中那个定语从句和先行词 Jack Wang 之间有逗号隔开。这个逗号和句尾的句点共同构成一对括弧、把当作补充说明使用的定语从句放在括弧内。既然这种定语从句不具有指示功能，关系代词就只能用 who 而不能改写为来自指示代词的 that。
 
 关于「指示功能」，我们还可以做个小实验。如果把第1句改成这样：
 
 I met <u>a friend</u> <u>who(that) worked at the same company with me</u>.
 （我碰到一个从前在同一家公司上班的朋友。）
 
-具有指示作用的定语从句（前后没有打逗点、关系词可以用 that），如果内容变了（从「高中老同学」变成「老同事」），那么它指向的先行词也就随之变成另一个对象。换句话说，现在碰到的是另一个人。但是，如果把第2句同样修改，如下：
+具有指示作用的定语从句（前后没有打逗号、关系词可以用 that），如果内容变了（从「高中老同学」变成「老同事」），那么它指向的先行词也就随之变成另一个对象。换句话说，现在碰到的是另一个人。但是，如果把第2句同样修改，如下：
 
 I met <u>Jack Wang</u>, <u>who worked at the same company with me</u>.
 （我碰到Jack王，他是我从前的老同事。）
 
-不具有指示功能的定语从句就只是个可有可无的补充说明。就算定语从句的内容改变了（高中同学变成老同事），但是先行词的对象并不会变：Jack 王还是 Jack 王。这种可有可无的定语从句应该放在括弧中、也就是用逗点隔开。而且这种定语从句的关系代词必须用 who 或 which 这一类，不再能够采用具有指示功能的 that。
+不具有指示功能的定语从句就只是个可有可无的补充说明。就算定语从句的内容改变了（高中同学变成老同事），但是先行词的对象并不会变：Jack 王还是 Jack 王。这种可有可无的定语从句应该放在括弧中、也就是用逗号隔开。而且这种定语从句的关系代词必须用 who 或 which 这一类，不再能够采用具有指示功能的 that。
 
-「有没有逗点隔开」，这是判断定语从句「有没有指示功能」最明显的线索。但是要小心别看错。请研究一下这个例子：
+「有没有逗号隔开」，这是判断定语从句「有没有指示功能」最明显的线索。但是要小心别看错。请研究一下这个例子：
 
 I met <u>a friend</u>, quite by chance, <u>who(that) went to the same high school with me</u>.
 （非常巧，我碰到一个从前高中的老同学。）
 
-先行词 a friend 和关系代词之间有逗点，但是请看仔细：是一对逗点，把当副词使用的介词短语 quite by chance 括在中间，而不是把定语从句放在括弧内。这种情况，定语从句仍然具有指示功能，所以关系词仍然可以采用具有指示功能的 that。
+先行词 a friend 和关系代词之间有逗号，但是请看仔细：是一对逗号，把当副词使用的介词短语 quite by chance 括在中间，而不是把定语从句放在括弧内。这种情况，定语从句仍然具有指示功能，所以关系词仍然可以采用具有指示功能的 that。
 
 接下来看看一个关系代词 which 用在不具指示功能的定语从句中的例子：
 
 <u>The Harry Potter movies</u> are not as good as the books themselves.
 Many people like <u>the Harry Potter movies</u>.
 
-前后两个句子在 the Harry Potter movies 上面重复而建立关系，可以把句 2 中的重复点改写为关系代词 which 而制造出定语从句 which many people like。这个定语从句放在句1的先行词 the Harry Potter movies 后面时，应该在定语从句前后打一对逗点，因为这个定语从句缺乏指示功能：它并没有指出是「哪些」电影（先行词 the Harry Potter movies 已经交代清楚是哪些电影了），而只是作个可有可无的补充说明。这种用法的定语从句应该放在一对括弧式的逗点内，如下：
+前后两个句子在 the Harry Potter movies 上面重复而建立关系，可以把句 2 中的重复点改写为关系代词 which 而制造出定语从句 which many people like。这个定语从句放在句1的先行词 the Harry Potter movies 后面时，应该在定语从句前后打一对逗号，因为这个定语从句缺乏指示功能：它并没有指出是「哪些」电影（先行词 the Harry Potter movies 已经交代清楚是哪些电影了），而只是作个可有可无的补充说明。这种用法的定语从句应该放在一对括弧式的逗号内，如下：
 
 <u>The Harry Potter movies</u>, <u>which many people like</u>, are not as good as the books themselves.
 (哈利波特系列电影，那是许多人很喜欢的，并没有小说本身好看。)
 
-定语从句放在括弧式的逗点中只是补充说明而不具指示性，因此这个 which 不能借用具有指性作用的 that。而且，which 虽然在定语从句中扮演宾语角色（是及物动词like的宾语），但是因为在定语从句前后有一对逗点，所以即使关系代词 which 是宾语也不再能够省略。因此上面那个句子没有进一步的变化可言。
+定语从句放在括弧式的逗号中只是补充说明而不具指示性，因此这个 which 不能借用具有指性作用的 that。而且，which 虽然在定语从句中扮演宾语角色（是及物动词like的宾语），但是因为在定语从句前后有一对逗号，所以即使关系代词 which 是宾语也不再能够省略。因此上面那个句子没有进一步的变化可言。
 
 ### 何时应该用 that
 
-关系代词 who 和 which，如果引导的定语从句缺乏指示功能（放在括弧式的逗点中当补充说明使用），就不能改写为具有指示性的 that。反之，如果定语从句具有强烈的指示功能，那么采用具有指示作用的 that 会比采用 who 或 which 来得更好。
+关系代词 who 和 which，如果引导的定语从句缺乏指示功能（放在括弧式的逗号中当补充说明使用），就不能改写为具有指示性的 that。反之，如果定语从句具有强烈的指示功能，那么采用具有指示作用的 that 会比采用 who 或 which 来得更好。
 
 下列两种情况，定语从句都具有强烈的指示功能：
 
@@ -418,19 +423,19 @@ You are <u>the only person</u> <u>that really understands me</u>.
 
 ### 何时不能省略
 
-如前所述，关系代词如果是宾语，可以选择把它省略掉。但是，定语从句如果是放在括弧性的逗点中作补充说明、不具有指示性，就不再适合省略宾语位置的关系代词。一旦有逗点断开，主要从句和定语从句分别都必须「自给自足」，因此不能再有省略。请看下例：
+如前所述，关系代词如果是宾语，可以选择把它省略掉。但是，定语从句如果是放在括弧性的逗号中作补充说明、不具有指示性，就不再适合省略宾语位置的关系代词。一旦有逗号断开，主要从句和定语从句分别都必须「自给自足」，因此不能再有省略。请看下例：
 
 <u>My uncle Tom</u>, [<u>whom</u> <u>you</u> <u>met</u> the other night], is quite a character.
 先行词 O S V
 我叔叔 Tom，你前几天晚上见过，是个很性格的角色。
 
-主要从句中的先行词 my uncle Tom 是个独一无二的专有名词，所以后面不能再用定语从句来指是「哪一个」，因此它后面的定语从句必须放在括弧式的逗点中当作一个可有可无的补充说明。这时候，关系代词 whom（亦可作 who）虽然是宾语，但是已经不再能够省略，而且也不能改写为具有指示功能的 that。再看一个 which 的例子：
+主要从句中的先行词 my uncle Tom 是个独一无二的专有名词，所以后面不能再用定语从句来指是「哪一个」，因此它后面的定语从句必须放在括弧式的逗号中当作一个可有可无的补充说明。这时候，关系代词 whom（亦可作 who）虽然是宾语，但是已经不再能够省略，而且也不能改写为具有指示功能的 that。再看一个 which 的例子：
 
 I like <u>The Da Vinci Code</u>, [<u>which</u> <u>many people</u> <u>like</u>, too].
 先行词 O S V
 (我喜欢《达文西密码》，很多人也都喜欢这本书。)
 
-先行词是个书名，听的人已经知道是哪本书，所以后面的定语从句属于补充说明的性质、放在括弧性的逗点后面。这时候关系代词 which 没有指示功能，不能用 that 来取代。而且，一旦打了逗点、和主要从句隔开，关系代词 which 虽然是宾语也不再能够省略。这是因为两个从句已经断开来，不能再共用先行词这个重复点，所以定语从句要有自己的 which 作宾语。
+先行词是个书名，听的人已经知道是哪本书，所以后面的定语从句属于补充说明的性质、放在括弧性的逗号后面。这时候关系代词 which 没有指示功能，不能用 that 来取代。而且，一旦打了逗号、和主要从句隔开，关系代词 which 虽然是宾语也不再能够省略。这是因为两个从句已经断开来，不能再共用先行词这个重复点，所以定语从句要有自己的 which 作宾语。
 
 ## 定语从句的位置
 
@@ -664,11 +669,11 @@ S V C 时间副词
 The earthquake hit at <u>a time</u> <u>when most people were sound asleep</u>.
 先行词 定语从句
 
-定语从句和先行词之间没有逗点隔开，表示这个定语从句具有指示功能（指出是「那个」时间）。只要定语从句具有指示功能，不论是关系代词还是关系副词，一律都可以改写成that。所以这个句子也可以写成：
+定语从句和先行词之间没有逗号隔开，表示这个定语从句具有指示功能（指出是「那个」时间）。只要定语从句具有指示功能，不论是关系代词还是关系副词，一律都可以改写成that。所以这个句子也可以写成：
 
 The earthquake hit at a time <u>that</u> most people were sound asleep.
 
-而且，关系副词 when 属于可有可无的副词类，只要定语从句没有逗点和先行词隔开，那么有了先行词 a time，关系副词就可以省略以避免重复，成为：
+而且，关系副词 when 属于可有可无的副词类，只要定语从句没有逗号和先行词隔开，那么有了先行词 a time，关系副词就可以省略以避免重复，成为：
 
 The earthquake hit at a time most people were sound asleep.
 
@@ -685,11 +690,11 @@ Every year <u>the superstar</u> <u>set aside</u> <u>some time</u> [when he can t
 S V O 定语从句
 （每年这位超级巨星都排出一段时间来带着太太匿名出游。）
 
-关系副词 when 引导的定语从句仍是表语从句，放在主要从句的先行词 some time 后面修饰它。因为定语从句没有逗点和先行词隔开，是具有指示功能的用法，所以关系副词 when 可以改写为 that，如下：
+关系副词 when 引导的定语从句仍是表语从句，放在主要从句的先行词 some time 后面修饰它。因为定语从句没有逗号和先行词隔开，是具有指示功能的用法，所以关系副词 when 可以改写为 that，如下：
 
 Every year the superstar set aside some time <u>that</u> he can travel incognito with his wife.
 
-另外，因为定语从句没有逗点和先行词隔开，这种情况的关系副词都可以省略，所以也可以选择省略掉关系副词 when，成为：
+另外，因为定语从句没有逗号和先行词隔开，这种情况的关系副词都可以省略，所以也可以选择省略掉关系副词 when，成为：
 
 Every year the superstar set aside some time he can travel incognito with his wife.
 
@@ -726,11 +731,11 @@ S V C 地方副词
 The artist lived in <u>a place</u> <u>where it was impossible to work</u>.
 先行词 定语从句
 
-这个定语从句仍是表语从句，修饰先行词 a place。因为定语从句并没有用逗点和先行词隔开，是具有指示功能的定语从句，所以关系副词也可以改写为 that，如下：
+这个定语从句仍是表语从句，修饰先行词 a place。因为定语从句并没有用逗号和先行词隔开，是具有指示功能的定语从句，所以关系副词也可以改写为 that，如下：
 
 The artist lived in a place <u>that</u> it was impossible to work.
 
-而且，只要定语从句没有用一组括弧性的逗点隔开，这种情况下关系副词都可以省略，如下：
+而且，只要定语从句没有用一组括弧性的逗号隔开，这种情况下关系副词都可以省略，如下：
 
 The artist lived in a place it was impossible to work.
 
@@ -746,7 +751,7 @@ S V 状语从句
 <u>The artist</u> <u>rented</u> <u>an apartment</u> [where he could work].
 S V O 定语从句
 
-这个复合句中，an apartment 是先行词，where 是关系副词，where he could work 是定语从句、当表语从句使用，修饰先行词 an apartment。这个定语从句没有逗点和先行词隔开，是具有指示功能的用法，所以关系副词 where 可以改写为指示功能明确的 that、也可以选择省略，如下：
+这个复合句中，an apartment 是先行词，where 是关系副词，where he could work 是定语从句、当表语从句使用，修饰先行词 an apartment。这个定语从句没有逗号和先行词隔开，是具有指示功能的用法，所以关系副词 where 可以改写为指示功能明确的 that、也可以选择省略，如下：
 
 The artist rented an apartment <u>that</u> he could work.
 The artist rented an apartment he could work.
@@ -772,7 +777,7 @@ S V 副词
 <u>I</u> never <u>found out</u> <u>the way</u> <u>how he escaped</u>.
 S V O（先行词） 定语从句
 
-定语从句和先行词之间没有逗点隔开，这种从句具有指示功能，所以可以选择用指示性明确的 that 取代 how，也可以选择省略掉 how，如下：
+定语从句和先行词之间没有逗号隔开，这种从句具有指示功能，所以可以选择用指示性明确的 that 取代 how，也可以选择省略掉 how，如下：
 
 I never found out the way <u>that</u> he escaped.
 I never found out the way he escaped.
@@ -806,7 +811,7 @@ S V O 副词
 The man didn’t explain <u>the reason</u> <u>why he wanted a divorce</u>.
 先行词 定语从句
 
-关系副词 why 引导定语从句 why he wanted a divorce 当表语从句使用，修饰先行词 the reason。因为没有逗点隔开，定语从句具有指示功能，所以关系副词 why 可以换成指示性明确的 that、也可以选择省略，如下：
+关系副词 why 引导定语从句 why he wanted a divorce 当表语从句使用，修饰先行词 the reason。因为没有逗号隔开，定语从句具有指示功能，所以关系副词 why 可以换成指示性明确的 that、也可以选择省略，如下：
 
 The man didn’t explain the reason <u>that</u> he wanted a divorce.
 The man didn’t explain the reason he wanted a divorce.
@@ -823,9 +828,9 @@ S V O 名词从句
 
 That 是陈述句 he wanted a divorce 外加的连词，制造出一个名词从句当做 said 的宾语，意思是「那件事」，所以整句话的意思是：「他说他想要离婚。 」
 
-有逗点隔开时
+有逗号隔开时
 
-请注意：一旦有一对括弧式的逗点隔开定语从句，这种定语从句就丧失了指示功能、只是补充说明。所以关系词不再能够改写为 that，而且也不再能够省略。在四个关系副词之中，只有 when 和 where 这两个引导的定语从句可以用逗点和先行词隔开、不具指示功能。例如：
+请注意：一旦有一对括弧式的逗号隔开定语从句，这种定语从句就丧失了指示功能、只是补充说明。所以关系词不再能够改写为 that，而且也不再能够省略。在四个关系副词之中，只有 when 和 where 这两个引导的定语从句可以用逗号和先行词隔开、不具指示功能。例如：
 
 Written history of America began in <u>1492</u>, [when Christopher Columbus arrived with his ships].
 先行词 定语从句
@@ -835,7 +840,7 @@ The civilization of ancient Egypt was born along <u>the Nile</u>, [where the soi
 先行词 定语从句
 （古埃及文明诞生于尼罗河畔，那里的土壤因为每年泛滥而保持肥沃。）
 
-这两个复合句中，先行词（1492 与 the Nile）都是专有名词，所以后面的定语从句都只是补充说明的性质、不具指示功能，因而用逗点和先行词隔开。这种补充说明性质的定语从句没有指示功能，所以关系词不能采用 that。而且这里的 when 和 where 也不能够省略，因为括弧与主要从句切断开来，必须自给自足。
+这两个复合句中，先行词（1492 与 the Nile）都是专有名词，所以后面的定语从句都只是补充说明的性质、不具指示功能，因而用逗号和先行词隔开。这种补充说明性质的定语从句没有指示功能，所以关系词不能采用 that。而且这里的 when 和 where 也不能够省略，因为括弧与主要从句切断开来，必须自给自足。
 
 ### 分裂句
 
@@ -858,7 +863,7 @@ Who is <u>it</u>?
 
 这几个句子都一样：缺乏真正的主语，只用虚字 it 填充主语位置。
 
-接下来看动词的部分。这个句子是过去时间（last night），因此分裂句采用 it was … that 的过去式。把原句中需要强调的主语 your friend 拿出来放到 it was 后面的补语位置，剩余的部分照抄在 that 后面，就把原来的单句分裂成 it was your friend 这个主要从句以及 that stole a can of peaches at a 7-11 last night 这个定语从句（中括弧内的部分）。分裂句后面那个定语从句都具有指示功能（不能用逗点隔开），所以关系词一律都可以采用 that。也可以选择用其他的关系词。像上面那个例子，获得强调的先行词是 your friend，后面的关系代词不用 that 而改用 who 也是正确的。
+接下来看动词的部分。这个句子是过去时间（last night），因此分裂句采用 it was … that 的过去式。把原句中需要强调的主语 your friend 拿出来放到 it was 后面的补语位置，剩余的部分照抄在 that 后面，就把原来的单句分裂成 it was your friend 这个主要从句以及 that stole a can of peaches at a 7-11 last night 这个定语从句（中括弧内的部分）。分裂句后面那个定语从句都具有指示功能（不能用逗号隔开），所以关系词一律都可以采用 that。也可以选择用其他的关系词。像上面那个例子，获得强调的先行词是 your friend，后面的关系代词不用 that 而改用 who 也是正确的。
 
 同一个句子，若要强调的是宾语、时间副词、或者地方副词，也都可以采用同样的分裂句来处理，如下：
 
@@ -1026,7 +1031,7 @@ The ship is to boldly <u>go</u> [<u>where</u> none has gone before].
 动词 连词 状语从句
 （这艘船将勇敢航向无人曾到之处。）
 
-二、Wh​​-ever 的混淆
+二、Wh-ever 的混淆
 
 拼成wh-ever形状、具有连词功能的字，可以分成两种：
 
@@ -1090,7 +1095,7 @@ It was <u>such</u> a great meal [<u>that</u> everyone of us ate too much].
 连词 状语从句
 （那一餐太棒了，结果我们每一个都吃太多。）
 
-1.  That 是关系词，改写自关系代词（who, which）与关系副词（when, where, how, why），引导的从句没有逗点和先行词隔开、是具有指示功能的定语从句（表语从句），修饰先行词。例如：
+1.  That 是关系词，改写自关系代词（who, which）与关系副词（when, where, how, why），引导的从句没有逗号和先行词隔开、是具有指示功能的定语从句（表语从句），修饰先行词。例如：
 
 He’s <u>the man</u> [<u>that</u> I told you about]. (that 相当于 who)
 先行词 关系代词 定语从句
@@ -1118,4 +1123,4 @@ Is this <u>the reason</u> [<u>that</u> he left so early]? (that 相当于 why)
 
 ## 结语
 
-定语从句的特色在于关系词不是外加、而是由内含的重复元素改写而来。所有的定语从句都是表语从句。只有复合关系代词引导的从句，因为取代了先行词，所以升格为名词从句。定语从句与先行词之间若有逗点隔开，表示这个从句是放在括弧内作补充说明之用、也就是不具指示功能。
+定语从句的特色在于关系词不是外加、而是由内含的重复元素改写而来。所有的定语从句都是表语从句。只有复合关系代词引导的从句，因为取代了先行词，所以升格为名词从句。定语从句与先行词之间若有逗号隔开，表示这个从句是放在括弧内作补充说明之用、也就是不具指示功能。

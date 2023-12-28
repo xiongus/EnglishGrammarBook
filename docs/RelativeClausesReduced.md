@@ -21,13 +21,13 @@
 <u>The man</u> [wanting to see you] is waiting outside.
 减化表语从句
 
-定语从句如果有逗点和先行词隔开，这种定语从句缺乏指示功能、只是个补充说明。它减化的做法还是一样的，例如：
+定语从句如果有逗号和先行词隔开，这种定语从句缺乏指示功能、只是个补充说明。它减化的做法还是一样的，例如：
 
 <u>My Encyclopedia Britannica</u>, [which is lying on the bookshelf and gathering dust], has seldom been used.
 先行词 定语从句
 (我那套大英百科全书，摆在书架上积灰尘，没用过几次。)
 
-这个定语从句前后有一对逗点隔开，等于是放在一对括弧里面做补充说明之用、缺乏指示功能。它的减化方式还是相同。关系代词 which 就是定语从句的主语，与先行词重复。定语从句的动词是 be 动词 is。只要省略掉这个重复的主语与空洞无内容的 be 动词，剩下的补语部分 lying on the bookshelf and gathering dust 这个现在分词短语就是成功的减化表语从句，可以充分取代原来那个定语从句，同样修饰先行词、表达同样的意思：
+这个定语从句前后有一对逗号隔开，等于是放在一对括弧里面做补充说明之用、缺乏指示功能。它的减化方式还是相同。关系代词 which 就是定语从句的主语，与先行词重复。定语从句的动词是 be 动词 is。只要省略掉这个重复的主语与空洞无内容的 be 动词，剩下的补语部分 lying on the bookshelf and gathering dust 这个现在分词短语就是成功的减化表语从句，可以充分取代原来那个定语从句，同样修饰先行词、表达同样的意思：
 
 <u>My Encyclopedia Britannica</u>, [lying on the bookshelf and gathering dust], has seldom been used.
 先行词 减化表语从句
@@ -56,13 +56,13 @@
 <u>Grapes</u> [grown in the Champagne area] make the best wines.
 先行词 减化表语从句
 
-定语从句如果前后打了一对逗点，就是当作可有可无的补充说明使用、不具指示功能。这种定语从句的减化方式还是一样：
+定语从句如果前后打了一对逗号，就是当作可有可无的补充说明使用、不具指示功能。这种定语从句的减化方式还是一样：
 
 <u>Microsoft</u>, [which is accused of monopolizing the OS market], will have to change its business practices.
 先行词 定语从句
 （微软公司（它被指控垄断作业系统市场）必须改变它的商业作风。）
 
-定语从句放在一对逗点中作补充说明之用、修饰先行词 Microsoft。定语从句的主语就是关系代词 which，与先行词重复。动词是空洞的 be 动词 is。这个定语从句减化的方式仍然是省略掉重复的主语 which 与空洞的 be 动词，剩下补语部分 accused of… 这个过去分词短语，如下：
+定语从句放在一对逗号中作补充说明之用、修饰先行词 Microsoft。定语从句的主语就是关系代词 which，与先行词重复。动词是空洞的 be 动词 is。这个定语从句减化的方式仍然是省略掉重复的主语 which 与空洞的 be 动词，剩下补语部分 accused of… 这个过去分词短语，如下：
 
 <u>Microsoft</u>, [accused of monopolizing the OS market], will have to change its business practices.
 先行词 减化表语从句
@@ -207,12 +207,12 @@ A chimpanzee is <u>an animal</u> [capable of reason].
 
 这个男孩，以他的年龄来说长得特别高大，想当相扑选手。
 
-定语从句的主语就是关系代词 who，和先行词 the boy 重复。动词是 be，后面的主语补语是形容词短语 unusually tall and heary for his age。这个定语从句前后有一对逗点隔开，不具有指示性，所以关系代词不能用 that。减化的方式仍然相同：省略掉重复的主语 who 和空洞的 be 动词，剩下的减化从句就是单纯的形容词补语，如下：
+定语从句的主语就是关系代词 who，和先行词 the boy 重复。动词是 be，后面的主语补语是形容词短语 unusually tall and heary for his age。这个定语从句前后有一对逗号隔开，不具有指示性，所以关系代词不能用 that。减化的方式仍然相同：省略掉重复的主语 who 和空洞的 be 动词，剩下的减化从句就是单纯的形容词补语，如下：
 
 <u>The boy</u>, [usually tall and heavy for his age], wants to be a sumo wrestler.
 先行词 减化定语从句
 
-这个减化定语从句前后打一对逗点隔开，因为它是不具指示功能的补充说明。
+这个减化定语从句前后打一对逗号隔开，因为它是不具指示功能的补充说明。
 
 ## 简化为名词
 
@@ -227,14 +227,14 @@ A chimpanzee is <u>an animal</u> [capable of reason].
 <u>The Great Wall of China</u>, [the largest man-made structure on earth], no longer serves a military function.
 先行词 减化定语从句
 
-原来的定语从句放在一对括弧式的逗点中，不具有指示功能、只是个补充说明。减化之后剩下来的主语补语（所谓的同位语）仍然放在一对逗点里面作补充说明使用。再看一个例子：
+原来的定语从句放在一对括弧式的逗号中，不具有指示功能、只是个补充说明。减化之后剩下来的主语补语（所谓的同位语）仍然放在一对逗号里面作补充说明使用。再看一个例子：
 
 This movie features <u>Tom Hanks</u>, [who is my favorite movie star].
 先行词 定语从句
 
 这部电影主打汤姆汉克斯，那是我最喜爱的影星。
 
-定语从句的主语就是关系代词 who，和先行词重复。这个定语从句放在一对逗点里面，属于补充说明的性质、不具指示功能。减化的方式是把重复的主语和空洞的be动词省略，剩下的主语补语是名词短语 my favorite movie star，也就是传统语法所谓的同位语，如下：
+定语从句的主语就是关系代词 who，和先行词重复。这个定语从句放在一对逗号里面，属于补充说明的性质、不具指示功能。减化的方式是把重复的主语和空洞的be动词省略，剩下的主语补语是名词短语 my favorite movie star，也就是传统语法所谓的同位语，如下：
 
 This movie features <u>Tom Hanks</u>, [my favorite movie star].
 先行词 减化定语从句
@@ -271,7 +271,7 @@ This is not <u>the right thing</u> [to do].
 状语从句 先行词 定语从句
 如果你喜欢广东菜，我知道有个地方你可以去。
 
-定语从句中的关系词现在是关系词 where。因为这个定语从句没有用逗点和先行词隔开、具有指示功能，所以关系副词 where 可以先行省略，剩下 you can go 再来进行减化：省略掉重复的主语 you（和状语从句主语重复），助动词减化为表示不定式的 to，如下：
+定语从句中的关系词现在是关系词 where。因为这个定语从句没有用逗号和先行词隔开、具有指示功能，所以关系副词 where 可以先行省略，剩下 you can go 再来进行减化：省略掉重复的主语 you（和状语从句主语重复），助动词减化为表示不定式的 to，如下：
 
 <u>If you like Cantonese food</u>, I know just <u>the place</u> [to go].
 状语从句 先行词 减化定语从句
@@ -282,7 +282,7 @@ This is <u>no time</u> [when you should be fooling around].
 先行词 定语从句
 (这不是可以胡闹的时候。)
 
-定语从句中的 when 是关系副词，因为没有逗点隔开所以可以先行省略，剩下 you should be fooling around 再来进行减化：省略笼统的主语 you、助动词 should 减化为表示不定式的 to ，如下：
+定语从句中的 when 是关系副词，因为没有逗号隔开所以可以先行省略，剩下 you should be fooling around 再来进行减化：省略笼统的主语 you、助动词 should 减化为表示不定式的 to ，如下：
 
 This is <u>no time</u> [to be fooling around].
 先行词 减化定语从句
@@ -293,7 +293,7 @@ I’ll show you <u>the way</u> [how you can start this machine].
 先行词 定语从句
 (我告诉你该怎么发动这台机器。)
 
-定语从句的连词是关系副词 how，因为没有逗点隔开所以可以先行省略。接下来进行减化：省略掉重复的主语 you（与主要从句的宾语you重复）、助动词 can 减化为表示不定式的 to，如下：
+定语从句的连词是关系副词 how，因为没有逗号隔开所以可以先行省略。接下来进行减化：省略掉重复的主语 you（与主要从句的宾语you重复）、助动词 can 减化为表示不定式的 to，如下：
 
 I’ll show you <u>the way</u> [to start this machine].
 先行词 减化定语从句
@@ -304,7 +304,7 @@ I’m glad <u>because I have</u> <u>something</u> [that I can look forward to].
 状语从句 先行词 定语从句
 (我很高兴，因为我有一件可以盼望的事。)
 
-定语从句中的关系代词 that（相当于which）是介词 to 的宾语。因为这个定语从句并没有用逗点和先行词隔开，具有指示功能，所以当宾语使用的关系代词that可以先行省略，剩下 I can look forward to 再来进行减化。减化的做法是省掉重复的主语 I、助动词 can 减化为表示不定式的 to，如下：
+定语从句中的关系代词 that（相当于which）是介词 to 的宾语。因为这个定语从句并没有用逗号和先行词隔开，具有指示功能，所以当宾语使用的关系代词that可以先行省略，剩下 I can look forward to 再来进行减化。减化的做法是省掉重复的主语 I、助动词 can 减化为表示不定式的 to，如下：
 
 I’m glad <u>because I have</u> <u>something</u> [to look forward to].
 状语从句 先行词 减化定语从句
@@ -435,7 +435,7 @@ I’m looking for <u>a motorcycle</u> [that my wife can ride].
 先行词 定语从句
 (我在找一辆我太太可以骑的机车。)
 
-定语从句中的关系代词 that（相当于 which）是宾语，因为没有逗点和先行词隔开所以可以先行省略，剩下 my wife can ride 再来进行减化：主语 my wife 和主要从句之间并无重复，而且 my wife 并不是像 people, somebody 之类含糊笼统的字，所以不能省略。碰到这种情况，助动词 can 仍然减化为表示不定式的 to，而配合不定式短语，原来的主语应该放在介词 for 后面的宾语位置来交代，如下：
+定语从句中的关系代词 that（相当于 which）是宾语，因为没有逗号和先行词隔开所以可以先行省略，剩下 my wife can ride 再来进行减化：主语 my wife 和主要从句之间并无重复，而且 my wife 并不是像 people, somebody 之类含糊笼统的字，所以不能省略。碰到这种情况，助动词 can 仍然减化为表示不定式的 to，而配合不定式短语，原来的主语应该放在介词 for 后面的宾语位置来交代，如下：
 
 I’m looking for <u>a motorcycle</u> [for my wife to ride].
 先行词 减化定语从句

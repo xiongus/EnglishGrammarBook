@@ -18,7 +18,7 @@
 <u>George, Mary, and Jane</u> were always together.
 （George, Mary和Jane一天到晚都在一起。）
 
-如果有三个以上的名词并列在主语位置，连词还是可以只用一个 and，前面用逗点把名词隔开即可。
+如果有三个以上的名词并列在主语位置，连词还是可以只用一个 and，前面用逗号把名词隔开即可。
 
 ### 动词
 
@@ -41,7 +41,7 @@ We always played together.
 We <u>ran, jumped, and shouted</u> for joy.
 （我们高兴得跑跑跳跳、大声喊叫。）
 
-这句里头有三个动词，也是只用一个并列连词 and 来连接，前面加上逗点来分隔。
+这句里头有三个动词，也是只用一个并列连词 and 来连接，前面加上逗号来分隔。
 
 ### 宾语
 

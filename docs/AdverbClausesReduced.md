@@ -252,7 +252,7 @@ V 减化状语从句
 
 ### 分词构句的位置
 
-分词构句常出现的位置分为句首、句中（主语与动词中间）、句尾三种，通常都需要有逗点和主要从句隔开。以下分别说明：
+分词构句常出现的位置分为句首、句中（主语与动词中间）、句尾三种，通常都需要有逗号和主要从句隔开。以下分别说明：
 
 #### 句首
 
@@ -260,43 +260,43 @@ V 减化状语从句
 简化状语从句 S V O
 (进入教室时, 老师和学生们打招呼。)
 
-现在分词短语放在句首用逗点隔开,应视为分词构句,也就是下面这个状语从句的减化:
+现在分词短语放在句首用逗号隔开,应视为分词构句,也就是下面这个状语从句的减化:
 
 [When he entered the classroom], the teacher <u>greeted</u> <u>the students</u>.
 状语从句 V O
 
 #### 句中
 
-句首位置的分词短语必须有逗点和主要从句隔开，否则是语法错误。放在句中位置就不一定了。分词短语放在句中位置如果没有逗点隔开，很可能是定语从句的减化，如下：
+句首位置的分词短语必须有逗号和主要从句隔开，否则是语法错误。放在句中位置就不一定了。分词短语放在句中位置如果没有逗号隔开，很可能是定语从句的减化，如下：
 
 <u>The teacher</u> [entering the classroom] <u>greeted</u> <u>the students</u>.
 S 减化表语从句 V O
 (进入教室的那位老师和学生们打招呼)
 
-这个位置的分词短语没有用逗点隔开，是下面这个定语从句减化的结果：
+这个位置的分词短语没有用逗号隔开，是下面这个定语从句减化的结果：
 
 <u>The teacher</u> [who entered the classroom] <u>greeted</u> <u>the students</u>.
 S 定语从句 V O
 
-定语从句（中括弧内的部分）没有用逗点隔开，表示它具有指示功能，关系代词 who 可以改写为 that，整个定语从句用于指出是「走进教室的那位老师」。减化为分词短语 entering the classroom 之后仍然具有同样的指示功能。另外，放在句中位置的分词短语如果有一对逗点和主要从句隔开，有可能是定语从句的减化，也有可能是分词构句（状语从句减化）。不过这两种诠释的意思差不多。例如：
+定语从句（中括弧内的部分）没有用逗号隔开，表示它具有指示功能，关系代词 who 可以改写为 that，整个定语从句用于指出是「走进教室的那位老师」。减化为分词短语 entering the classroom 之后仍然具有同样的指示功能。另外，放在句中位置的分词短语如果有一对逗号和主要从句隔开，有可能是定语从句的减化，也有可能是分词构句（状语从句减化）。不过这两种诠释的意思差不多。例如：
 
 <u>The teacher</u>, [entering the classroom], <u>greeted</u> <u>the students</u>.
 S 减化从句 V O
 (老师走进教室、和学生打招呼。)
 
-句中位置这个分词短语，前后有一对逗点和主要从句隔开。这时候它有可能是不具指示功能的定语从句 who entered the classroom 的减化、修饰先行词 the teacher，也有可能是时间状语从句 when he entered the classroom 减化为分词构句，修饰动词 entered 的时间。不过，这两种诠释的意思差不了太多，虽然稍有模棱两可之嫌但还可以接受。
+句中位置这个分词短语，前后有一对逗号和主要从句隔开。这时候它有可能是不具指示功能的定语从句 who entered the classroom 的减化、修饰先行词 the teacher，也有可能是时间状语从句 when he entered the classroom 减化为分词构句，修饰动词 entered 的时间。不过，这两种诠释的意思差不了太多，虽然稍有模棱两可之嫌但还可以接受。
 
 #### 句尾
 
-分词短语放在句尾位置，如果没有逗点和主要从句隔开，有可能是宾语补语，如下：
+分词短语放在句尾位置，如果没有逗号和主要从句隔开，有可能是宾语补语，如下：
 
 <u>The teacher</u> <u>greeted</u> <u>the students</u> <u>entering the classroom</u>.
 S V O C
 (老师和走进教室的学生们打招呼。)
 
-句尾的 entering the classroom 这个分词短语没有逗点隔开，是主要从句的元素之一：宾语补语，形容的对像​​是宾语 the students。这时候，「走进教室」的不再是老师、变成是学生们。
+句尾的 entering the classroom 这个分词短语没有逗号隔开，是主要从句的元素之一：宾语补语，形容的对像​​是宾语 the students。这时候，「走进教室」的不再是老师、变成是学生们。
 
-句尾位置的分词短语如果有逗点隔开，仍然要当作分词构句看待，也就是状语从句的减化。例如：
+句尾位置的分词短语如果有逗号隔开，仍然要当作分词构句看待，也就是状语从句的减化。例如：
 
 <u>The teacher</u> <u>greeted</u> <u>the students</u>, [entering the classroom].
 S V O 减化状语从句
@@ -593,7 +593,7 @@ V 状语从句
 The little resort town <u>is</u> crowded, [with an influx of tourists].
 V 介词短语
 
-在介词 with 前面最好加个逗点，表示这个介词短语是用来说明「原因」的，而不是用 crowded with something 来说明挤满了什么「东西」。在介词 with 后面就只有一个名词短语的空间，所以就直接放入名词短语 an influx of tourists 当宾语。再看一个例子：
+在介词 with 前面最好加个逗号，表示这个介词短语是用来说明「原因」的，而不是用 crowded with something 来说明挤满了什么「东西」。在介词 with 后面就只有一个名词短语的空间，所以就直接放入名词短语 an influx of tourists 当宾语。再看一个例子：
 
 [Because he had prepared adequately], the student <u>did</u> well at the exam.
 状语从句 V
