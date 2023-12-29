@@ -1,18 +1,16 @@
 # 第十一章 语气助动词
 
-所谓**助动词**(**auxiliaries**)，指的是一种用来辅助动词、构成动词短语的词类。
+所谓助动词(auxiliaries)，指的是一种用来辅助动词、构成动词短语的词类。
 
-助动词可粗分为语法助动词与语气助动词两大类。
+助动词可粗分为**语法助动词**与**语气助动词**两大类。
 
-所谓语法助动词，指的是像否定句加上的 don’t、疑问句加上的 do、以及完成时加上的 have 之类。 
+语法助动词，指的是像否定句加上的 don’t、疑问句加上的 do、以及完成时加上的 have 之类。 
 
 Do 与 don’t 配合原形动词构成动词短语、have 则配合过去分词构成动词短语。
 
 这些语法助动词是非常基本的用语，属于国中英文程度，在此不再赘述。
 
-比较需要探讨的是**语气助动词（modal auxiliaries）**。
-
-语气助动词，配合原形动词构成动词短语，用来表达**条件语气（conditional mood）**。
+**语气助动词（modal auxiliaries）** ， 配合原形动词构成动词短语，用来表达**条件语气（conditional mood）**。
 
 这是一种带有「不确定」意味的语气。试比较下面两个句子：
 
@@ -106,7 +104,7 @@ Shall 这个语气助动词在现代英文中并不常用，通常只见于 shal
 >I <u>can drink</u> a dozen beers in an hour.
 (我一小时可以喝得下一打啤酒。)（现在时间）
 
->u>Last night</u> there was something wrong with my stomach, and I <u>couldn’t</u> even <u>finish</u> one beer.
+><u>Last night</u> there was something wrong with my stomach, and I <u>couldn’t</u> even <u>finish</u> one beer.
 (昨天晚上我肚子有毛病，连一瓶啤酒都喝不完。)（过去时间）
 
 但是，could 也可以用在现在时间，例如：
