@@ -101,6 +101,8 @@
 
 另一个例子里面的 10-story-high 这个复合形容词也是同样的道理，story 必须改成单数。
 
+要记住：虽然形容词短语中可以包含复数名词，所以可以说 the boy is five years old ，但是改写成复合形容词就不允许了。
+
 
 ### 4．只能放在名词短语中的形容词
 
@@ -338,8 +340,6 @@ S V C
 
 形容词短语 18 stories tall 放在主语补语位置、修饰主语 that building。
 
-请注意：形容词短语中可以包含复数名词，所以 18 stories 用的是复数。  （形容词短语不是名词短语，别理解岔了）
-
 ><u>I</u> <u>saw</u> <u>the dog</u> <u>crossing the street</u>.
 S V O C
 （我看到狗在过马路。）
@@ -354,7 +354,7 @@ S V O C
 S V C
 （病人睡着了。）
 
-上句中那个 a- 开头的形容词 asleep，来自古英文的介词短语 on sleep，所以不适合放在名词短语中，只能当作后位修饰语、或者放在补语位置使用。
+asleep来自古英文的介词短语 on sleep，所以不适合放在名词短语中，只能当作后位修饰语、或者放在补语位置使用。
 
 接下来几个例子的性质都相同，请读者自行揣摩。
 
@@ -364,49 +364,23 @@ S V C
 S V C
 (这个小孩看起来很害怕。)
 
-><u>She</u> <u>was</u> not <u>aware</u> of the latest development.
-S V C
-(她并不知道最新的发展。)
-
-><u>The new student</u> <u>stayed</u> <u>aloof</u>.
-S V C
-(新来的学生和别人保持距离。)
-
-><u>The soldier</u> <u>remained</u> <u>alert</u> throughout the night.
-S V C
-(这名士兵整个晚上都保持警觉。)
-
 ### 3、宾语补语：
 
 ><u>The coffee</u> <u>kept</u> <u>him</u> <u>awake</u>.
 S V O C
 （咖啡维持他清醒。）
 
-><u>The drug</u> <u>kept</u> <u>the animals</u> <u>alive</u>.
-S V O C
-（药品维持这些动物不死。）
-
-><u>They</u> <u>found</u> <u>the man</u> <u>alone</u> in the office.
-S V O C
-（他们发现这名男子单独一人在办公室。）
-
-><u>I</u> <u>consider</u> <u>the two options</u> <u>alike</u>.
-S V O C
-（我认为这两个选择都差不多。）
-
 ### 4、一些需要补充的形容词
 
-有一些放在主语位置的形容词,本身还不具备完整的意思,需要配合别的文字来做进一步的补充、意思才算完整。配合它来做补充的文字,常见的有不定式短语、介词短语、以及名词从句三种。请看下面的例子:
+某些放在补语位置的形容词,不具备完整的意思,需要配合别的文字来做进一步的补充。
+
+配合它来做补充的文字,常见的有不定式短语、介词短语、以及名词从句三种。请看下面的例子:
 
 ><u>I</u> <u>am</u> <u>eager</u> to begin the project.
 S V C
 （我急着想开始这项计画。）
 
-如果光是说 I am eager，补语位置的形容词 eager 似乎尚未交代清楚这句话是什么意思。
-
-加上了不定式短语 to begin the project，句子的意思才算完全清楚。
-
-这里的不定式短语 to begin the project 当副词使用、修饰形容词 eager。
+如果光是说 I am eager，尚未交代清楚这句话是什么意思，加上了不定式短语 to begin the project，句子的意思才算完全清楚。
 
 ><u>I</u> <u>am</u> <u>able</u> to do the job.
 S V C
@@ -418,9 +392,7 @@ S V C
 S V C
 （这些人对于加班已经很习惯了。）
 
-如果光是说 These people are used，也是感觉语焉不详。
-
-加上介词短语 to working overtime 来修饰形容词 used、说明清楚是「对什么事情」习惯了，句意才算交代清楚。
+如果光是说 These people are used，也是感觉语焉不详，加上介词短语 to working overtime 来修饰形容词 used、说明清楚是「对什么事情」习惯了，句意才算交代清楚。
 
 请注意：本句中的 to 是介词，和前面两句表示不定式的 to 并不相同。
 
@@ -428,21 +400,15 @@ S V C
 S V C
 (我喜欢乡村音乐。)
 
-光是说 I am fond，意思尚未交代清楚。
-
-加上介词短语 of country music 来修饰形容词 fond，才有完整的意思出来。
+光是说 I am fond，意思尚未交代清楚，加上介词短语 of country music 来修饰形容词 fond，才有完整的意思出来。
 
 ><u>The pilot's wife</u> <u>is</u> <u>concerned</u> that he might get killed.
 S V C
 (这位飞行员的太太担心他可能会送命。)
 
-如果光是说 The pilot's wife is concerned，似乎也还没有讲清楚。
-
 加上名词从句 that he might get killed 之后意思算清楚。
 
-这个名词从句扮演什么角色，乍看之下不容易看出来。
-
-因为这个句子牵涉到省略，可以还原如下：
+这个名词从句扮演什么角色，乍看之下不容易看出来。因为这个句子牵涉到省略，可以还原如下：
 
 >The pilot's wife is concerned over <u>the possibility</u> <u>that he might get killed</u>.
 
