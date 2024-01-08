@@ -103,7 +103,7 @@ the dog 与 the bone 称为**先行词（antecedents）**。
 
 代词只能有一个合理的先行词。
 
-如果一个代词有两个以上的先行词、而且都说得通，那么这个句子就没有把话讲清楚、是不好的句子。例如：
+如果一个代词有多个的先行词、而且都说得通，那么这个句子就没有把话讲清楚、是不好的句子。例如：
 
 >When <u>tourists</u> first arrived in this new resort, the <u>locals</u> thought <u>they</u> were very lucky people. （不佳）
 （观光客初抵这个新渡假区时，当地人认为他们是非常幸运的人。）

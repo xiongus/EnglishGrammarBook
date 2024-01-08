@@ -21,7 +21,7 @@
   * [第十三章 动名词](docs/Gerund.md)
   * [第十四章 不定式短语](docs/Infinitive.md)
   * [第十五章 并列连词](docs/Conjunction.md)
-  * [第十六章 合句](docs/CompoundSentences.md)
+  * [第十六章 对等从句](docs/CompoundSentences.md)
   * [第十七章 名词从句](docs/NounClauses.md)
   * [第十八章 状语从句](docs/AdverbClauses.md)
   * [第十九章 定语从句](docs/RelativeClauses.md)

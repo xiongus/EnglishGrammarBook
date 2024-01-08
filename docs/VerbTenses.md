@@ -476,7 +476,7 @@ You can leave early <u>if you have finished the test before the bell rings</u>.
 
 ## 时态一致性
 
-一个句子当中如果有两个以上的限定从句，就会有两个以上的动词。这些动词在时态方面必须符合一致性：并不表示这些动词的时态必须相同，而是这些动词之间必须符合逻辑关系、并且表达出清楚的意思。例如下面这个句子就有问题：
+一个句子当中如果有多个的限定从句，就会有多个的动词。这些动词在时态方面必须符合一致性：并不表示这些动词的时态必须相同，而是这些动词之间必须符合逻辑关系、并且表达出清楚的意思。例如下面这个句子就有问题：
 
 Some buildings that were destroyed in the 921 earthquake were poorly constructed. （不佳）
 
