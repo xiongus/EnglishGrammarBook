@@ -150,11 +150,7 @@ Not only 强调中国是「世界人口最多的国家」，also 则是要强调
 
 用并列连词连接的对等从句，因为必须对称所以经常会有重复的部分。
 
-想要避免重复的话，最常用的手段就是省略掉重复的部分，这又是一个写作时容易出错的地方。
-
-并列连词本身固然很单纯，但它在句中的运用却是变化万千。
-
-写作时凡是用到并列连词都要特别小心，尤其是「对称」的要求不得马虎。
+想要避免重复的话，最常用的手段就是省略掉重复的部分。
 
 以下几个例子都有省略不当的错误，请读者仔细观察。
 
@@ -172,7 +168,11 @@ S V C
 
 >After years of hard work, spring floods and summer droughts have not been eliminated from this area, <u>and</u> spring floods and summer droughts may never be eliminated from this area.
 
-这个合句中，两个对等从句的主语（spring floods and summer droughts）相同，可以省略其一。动词部分不同：一个是 have not been、另一个是 may never bee，所以不能省略。补语部分（eliminated from this area）又是相同，也可以省略一个，如下：
+这个合句中，两个对等从句的主语（spring floods and summer droughts）相同，可以省略其一。
+
+动词部分不同：一个是 have not been、另一个是 may never bee，所以不能省略。
+
+补语部分（eliminated from this area）又是相同，也可以省略一个，如下：
 
 >After years of hard work, spring floods and summer droughts <u>have not been and may never be</u> eliminated from this area.
 （努力多年之后，这个地区春天淹水和夏天干旱的问题仍未消除、也可能永远消除不了。）
