@@ -36,8 +36,8 @@
 
 * 其他
 
-  * [源码](https://github.com/codeyu/EnglishGrammarBook)
+  * [源码](https://github.com/xiongus/EnglishGrammarBook)
 
-  * [修订历史](https://github.com/codeyu/EnglishGrammarBook/commits/master)
+  * [修订历史](https://github.com/xiongus/EnglishGrammarBook/commits/master)
 
-  * [反馈意见](https://github.com/codeyu/EnglishGrammarBook/issues)
+  * [反馈意见](https://github.com/xiongus/EnglishGrammarBook/issues)
